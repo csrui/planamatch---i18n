@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"POT-Creation-Date: 2011-06-19 10:23+0000\n"
+"POT-Creation-Date: 2011-06-19 13:10+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Last-Translator: NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
@@ -237,6 +237,10 @@ msgstr ""
 msgid "Player invited"
 msgstr ""
 
+#: /controllers/groups_controller.php:428
+msgid "You invited %s users to your group"
+msgstr ""
+
 #: /controllers/groups_controller.php:455
 msgid "Cannot remove yourself from the group."
 msgstr ""
@@ -333,6 +337,10 @@ msgstr ""
 
 #: /controllers/players_controller.php:152
 msgid "The selected user doesn't exist"
+msgstr ""
+
+#: /controllers/players_controller.php:158
+msgid "%s's profile"
 msgstr ""
 
 #: /controllers/venues_controller.php:127;212
