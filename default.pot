@@ -1,0 +1,2137 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2011-06-19 10:23+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: /app_controller.php:154
+#: /controllers/announcements_controller.php:25
+msgid "Only administrators have access to that area"
+msgstr ""
+
+#: /controllers/announcements_controller.php:37
+msgid "The access to that item is restricted"
+msgstr ""
+
+#: /controllers/announcements_controller.php:112
+msgid "You must agree with the community guidelines"
+msgstr ""
+
+#: /controllers/announcements_controller.php:118;137;185;202
+msgid "The announcement has been saved"
+msgstr ""
+
+#: /controllers/announcements_controller.php:123;140;188;205
+msgid "The announcement could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/announcements_controller.php:132;175;197
+msgid "Invalid announcement"
+msgstr ""
+
+#: /controllers/announcements_controller.php:158;217
+msgid "Invalid id for announcement"
+msgstr ""
+
+#: /controllers/announcements_controller.php:162;221
+msgid "Announcement deleted"
+msgstr ""
+
+#: /controllers/announcements_controller.php:165;224
+msgid "Announcement was not deleted"
+msgstr ""
+
+#: /controllers/attendings_controller.php:85
+msgid "Only the game admin has access to this event"
+msgstr ""
+
+#: /controllers/attendings_controller.php:92
+msgid "You dont have access to this event"
+msgstr ""
+
+#: /controllers/attendings_controller.php:99
+msgid "Incorrect parameter or no access"
+msgstr ""
+
+#: /controllers/attendings_controller.php:139
+msgid "Player status updated"
+msgstr ""
+
+#: /controllers/attendings_controller.php:141
+msgid "Error, the stauts could not be updated"
+msgstr ""
+
+#: /controllers/attendings_controller.php:169
+msgid "No Access"
+msgstr ""
+
+#: /controllers/attendings_controller.php:182
+msgid "Player already on the roster"
+msgstr ""
+
+#: /controllers/attendings_controller.php:199
+msgid "Player added to roster"
+msgstr ""
+
+#: /controllers/attendings_controller.php:209
+msgid "Ups, nothing happened"
+msgstr ""
+
+#: /controllers/events_controller.php:32
+#: /views/events/widget_upcoming.ctp:1
+#: /views/events/rss/index.ctp:7;9
+msgid "Upcoming Events"
+msgstr ""
+
+#: /controllers/events_controller.php:65
+msgid "Event "
+msgstr ""
+
+#: /controllers/events_controller.php:123
+#: /views/events/add.ctp:9
+msgid "Create a new Event"
+msgstr ""
+
+#: /controllers/events_controller.php:129
+msgid "The Event has been saved, start inviting your friends"
+msgstr ""
+
+#: /controllers/events_controller.php:134;175
+msgid "The Event could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/events_controller.php:149
+#: /views/events/edit.ctp:9
+#: /views/events/view.ctp:16
+msgid "Edit Event"
+msgstr ""
+
+#: /controllers/events_controller.php:152;200
+msgid "Invalid Event"
+msgstr ""
+
+#: /controllers/events_controller.php:170
+msgid "The Event has been saved."
+msgstr ""
+
+#: /controllers/events_controller.php:186;209
+#: /controllers/groups_controller.php:296;315;450
+msgid "Access Denied."
+msgstr ""
+
+#: /controllers/events_controller.php:220
+msgid "Event deleted"
+msgstr ""
+
+#: /controllers/groups_controller.php:41
+#: /views/groups/add.ctp:1
+#: /views/groups/delete.ctp:1
+#: /views/groups/edit.ctp:1
+#: /views/groups/index.ctp:1
+#: /views/groups/invite.ctp:8
+#: /views/groups/pending.ctp:1
+#: /views/groups/search.ctp:6
+#: /views/groups/view.ctp:31
+#: /views/layouts/default.ctp:56
+#: /views/players/index.ctp:21
+#: /views/players/view.ctp:110
+#: /views/themed/mobile/layouts/default.ctp:60
+msgid "Groups"
+msgstr ""
+
+#: /controllers/groups_controller.php:51
+#: /views/groups/add.ctp:5
+#: /views/groups/delete.ctp:5
+#: /views/groups/edit.ctp:5
+#: /views/groups/index.ctp:11
+#: /views/groups/invite.ctp:12
+#: /views/groups/pending.ctp:5
+#: /views/groups/search.ctp:10
+#: /views/groups/view.ctp:41
+#: /views/payments/index.ctp:11
+#: /views/payments/manager_add.ctp:10
+#: /views/payments/manager_view.ctp:11
+msgid "Your groups"
+msgstr ""
+
+#: /controllers/groups_controller.php:121
+msgid "Groups: Tagged "
+msgstr ""
+
+#: /controllers/groups_controller.php:129
+#: /controllers/venues_controller.php:39
+msgid "Please use 3 or more characters in the search"
+msgstr ""
+
+#: /controllers/groups_controller.php:158
+msgid "Update your profile with your location so we can provide groups near you"
+msgstr ""
+
+#: /controllers/groups_controller.php:163
+msgid "Groups: searching "
+msgstr ""
+
+#: /controllers/groups_controller.php:184
+msgid "The group you selected is private or doesn't exist."
+msgstr ""
+
+#: /controllers/groups_controller.php:255
+msgid "Create a new Group"
+msgstr ""
+
+#: /controllers/groups_controller.php:259
+msgid "You just created a new group."
+msgstr ""
+
+#: /controllers/groups_controller.php:264;287
+msgid "The Group could not be saved. Please, try again."
+msgstr ""
+
+#: /controllers/groups_controller.php:272
+msgid "Edit Group"
+msgstr ""
+
+#: /controllers/groups_controller.php:274
+msgid "Invalid Group"
+msgstr ""
+
+#: /controllers/groups_controller.php:284
+msgid "The Group has been saved"
+msgstr ""
+
+#: /controllers/groups_controller.php:306
+msgid "Invalid id for Group"
+msgstr ""
+
+#: /controllers/groups_controller.php:325
+msgid "Group deleted"
+msgstr ""
+
+#: /controllers/groups_controller.php:342
+#: /views/dashboard/index.ctp:58
+#: /views/groups/index.ctp:35
+#: /views/groups/invite.ctp:83
+#: /views/groups/view.ctp:146
+msgid "Invitations"
+msgstr ""
+
+#: /controllers/groups_controller.php:349;543
+msgid "You are not this group's administrator"
+msgstr ""
+
+#: /controllers/groups_controller.php:364
+msgid "Oh ho! player not found"
+msgstr ""
+
+#: /controllers/groups_controller.php:372
+msgid "Player invited"
+msgstr ""
+
+#: /controllers/groups_controller.php:455
+msgid "Cannot remove yourself from the group."
+msgstr ""
+
+#: /controllers/groups_controller.php:460
+msgid "User subscription canceled"
+msgstr ""
+
+#: /controllers/groups_controller.php:462
+msgid "Unable to remove user from group"
+msgstr ""
+
+#: /controllers/groups_controller.php:489
+msgid "Your request has been sent and will be reviewed by the group admin"
+msgstr ""
+
+#: /controllers/groups_controller.php:498
+msgid "You just accepted the invitation to belong to this group"
+msgstr ""
+
+#: /controllers/groups_controller.php:509
+msgid "You no longer belong to this group"
+msgstr ""
+
+#: /controllers/groups_controller.php:513
+msgid "You canceled your request"
+msgstr ""
+
+#: /controllers/groups_controller.php:535
+msgid "Pending memberships"
+msgstr ""
+
+#: /controllers/groups_controller.php:596
+msgid "Members approved"
+msgstr ""
+
+#: /controllers/groups_controller.php:615
+msgid "Your vote was recorded"
+msgstr ""
+
+#: /controllers/groups_controller.php:619
+msgid "Sorry, we cant record your vote"
+msgstr ""
+
+#: /controllers/home_controller.php:18
+msgid "Plan sports events with your friends"
+msgstr ""
+
+#: /controllers/payments_controller.php:8
+#: /views/groups/view.ctp:38
+#: /views/payments/index.ctp:8
+#: /views/payments/manager_add.ctp:6
+#: /views/payments/manager_delete.ctp:1
+#: /views/payments/manager_view.ctp:8
+msgid "Membership fees"
+msgstr ""
+
+#: /controllers/payments_controller.php:28;39
+msgid "Only managers have access to that area"
+msgstr ""
+
+#: /controllers/payments_controller.php:59
+msgid "Payments made by you"
+msgstr ""
+
+#: /controllers/payments_controller.php:110
+#: /views/groups/view.ctp:131
+msgid "Register new payment"
+msgstr ""
+
+#: /controllers/payments_controller.php:123
+msgid "The selected user doesn't belong to the group"
+msgstr ""
+
+#: /controllers/payments_controller.php:140
+msgid "Payment registered"
+msgstr ""
+
+#: /controllers/payments_controller.php:156
+msgid "Payments made to this Group"
+msgstr ""
+
+#: /controllers/payments_controller.php:213
+msgid "Payment deleted"
+msgstr ""
+
+#: /controllers/players_controller.php:24
+msgid "Players with public profiles"
+msgstr ""
+
+#: /controllers/players_controller.php:62
+msgid "Update your profile with your location so we can find players near you"
+msgstr ""
+
+#: /controllers/players_controller.php:152
+msgid "The selected user doesn't exist"
+msgstr ""
+
+#: /controllers/venues_controller.php:127;212
+msgid "Venue Added"
+msgstr ""
+
+#: /controllers/venues_controller.php:130;215;229
+msgid "Please review the form"
+msgstr ""
+
+#: /controllers/venues_controller.php:226
+msgid "Venue Saved"
+msgstr ""
+
+#: /models/announcement.php:87
+msgid "Invalid Announcement."
+msgstr ""
+
+#: /plugins/comments/controllers/comments_posts_controller.php:15
+msgid "Comment saved"
+msgstr ""
+
+#: /plugins/comments/controllers/comments_posts_controller.php:23
+msgid "Unable to save your comment"
+msgstr ""
+
+#: /plugins/comments/controllers/comments_posts_controller.php:38
+msgid "Comment deleted"
+msgstr ""
+
+#: /plugins/comments/controllers/comments_posts_controller.php:43
+msgid "You cannot delete that comment"
+msgstr ""
+
+#: /plugins/comments/views/elements/comments/post.ctp:23
+#: /views/elements/comments/post.ctp:23
+msgid "Delete comment"
+msgstr ""
+
+#: /plugins/comments/views/elements/comments/post.ctp:43
+#: /views/elements/comments/post.ctp:43
+msgid "comment deleted by the author"
+msgstr ""
+
+#: /plugins/contacts/controllers/contacts_controller.php:29
+msgid "Thank you for contacting us"
+msgstr ""
+
+#: /plugins/contacts/controllers/contacts_controller.php:43
+msgid "Please Correct Errors"
+msgstr ""
+
+#: /plugins/contacts/views/contacts/add.ctp:1
+#: /views/plugins/contacts/contacts/add.ctp:6
+msgid "We'd love to hear from you"
+msgstr ""
+
+#: /plugins/contacts/views/contacts/admin_index.ctp:2
+#: /views/venues/add.ctp:54
+msgid "Contacts"
+msgstr ""
+
+#: /plugins/contacts/views/contacts/admin_index.ctp:7
+#: /views/venues/discover.ctp:18
+msgid "Name"
+msgstr ""
+
+#: /plugins/contacts/views/contacts/admin_index.ctp:8
+#: /plugins/msgs/views/msgs_messages/index.ctp:16
+#: /plugins/msgs/views/msgs_messages/sent.ctp:16
+#: /views/plugins/msgs/msgs_messages/index.ctp:19
+#: /views/plugins/msgs/msgs_messages/sent.ctp:19
+msgid "Subject"
+msgstr ""
+
+#: /plugins/contacts/views/contacts/admin_index.ctp:9
+msgid "Email"
+msgstr ""
+
+#: /plugins/contacts/views/contacts/admin_index.ctp:10
+msgid "Timestamp"
+msgstr ""
+
+#: /plugins/contacts/views/contacts/admin_view.ctp:2
+msgid "Message"
+msgstr ""
+
+#: /plugins/invitation/controllers/invitation_codes_controller.php:14
+msgid "New Invitation codes generated"
+msgstr ""
+
+#: /plugins/invitation/views/invitation_codes/admin_add.ctp:3
+msgid "Generate Invitation Codes"
+msgstr ""
+
+#: /plugins/invitation/views/invitation_codes/admin_add.ctp:9
+#: /views/events/add.ctp:16
+#: /views/events/view.ctp:95
+msgid "Description"
+msgstr ""
+
+#: /plugins/invitation/views/invitation_codes/admin_add.ctp:17
+msgid "Optional"
+msgstr ""
+
+#: /plugins/msgs/msgs_app_controller.php:10
+#: /plugins/msgs/views/msgs_messages/view.ctp:12
+#: /views/elements/score_board.ctp:15
+#: /views/themed/mobile/elements/user_area.ctp:15
+msgid "Messages"
+msgstr ""
+
+#: /plugins/msgs/controllers/msgs_messages_controller.php:40
+msgid "Your private message was sent"
+msgstr ""
+
+#: /plugins/msgs/views/msgs_messages/index.ctp:5
+#: /plugins/msgs/views/msgs_messages/sent.ctp:5
+#: /plugins/msgs/views/msgs_messages/view.ctp:6
+msgid "New Message"
+msgstr ""
+
+#: /plugins/msgs/views/msgs_messages/index.ctp:6
+#: /plugins/msgs/views/msgs_messages/reply.ctp:6
+#: /plugins/msgs/views/msgs_messages/send.ctp:6
+#: /plugins/msgs/views/msgs_messages/view.ctp:8
+#: /views/plugins/msgs/msgs_messages/index.ctp:7
+#: /views/plugins/msgs/msgs_messages/send.ctp:9
+#: /views/plugins/msgs/msgs_messages/view.ctp:8
+msgid "Sent Messages"
+msgstr ""
+
+#: /plugins/msgs/views/msgs_messages/index.ctp:10
+#: /plugins/msgs/views/msgs_messages/reply.ctp:5
+#: /plugins/msgs/views/msgs_messages/send.ctp:5
+#: /plugins/msgs/views/msgs_messages/sent.ctp:6
+#: /plugins/msgs/views/msgs_messages/view.ctp:7
+#: /views/plugins/msgs/msgs_messages/index.ctp:13
+#: /views/plugins/msgs/msgs_messages/send.ctp:8
+#: /views/plugins/msgs/msgs_messages/sent.ctp:7
+#: /views/plugins/msgs/msgs_messages/view.ctp:7
+msgid "Inbox"
+msgstr ""
+
+#: /plugins/msgs/views/msgs_messages/index.ctp:15
+#: /plugins/msgs/views/msgs_messages/view.ctp:16
+#: /views/payments/manager_add.ctp:41
+#: /views/payments/manager_delete.ctp:41
+#: /views/plugins/msgs/msgs_messages/index.ctp:18
+#: /views/plugins/msgs/msgs_messages/view.ctp:27
+msgid "From"
+msgstr ""
+
+#: /plugins/msgs/views/msgs_messages/index.ctp:17
+msgid "Recieved"
+msgstr ""
+
+#: /plugins/msgs/views/msgs_messages/reply.ctp:10
+msgid "Reply to the message"
+msgstr ""
+
+#: /plugins/msgs/views/msgs_messages/send.ctp:10
+#: /views/plugins/msgs/msgs_messages/send.ctp:15
+msgid "Send a new private message to"
+msgstr ""
+
+#: /plugins/msgs/views/msgs_messages/sent.ctp:10;17
+#: /plugins/msgs/views/msgs_messages/view.ctp:18
+#: /views/plugins/msgs/msgs_messages/sent.ctp:20
+msgid "Sent"
+msgstr ""
+
+#: /plugins/msgs/views/msgs_messages/sent.ctp:15
+#: /views/payments/manager_add.ctp:37
+#: /views/payments/manager_delete.ctp:37
+#: /views/plugins/msgs/msgs_messages/sent.ctp:18
+msgid "To"
+msgstr ""
+
+#: /plugins/msgs/views/msgs_messages/view.ctp:5
+msgid "Reply"
+msgstr ""
+
+#: /plugins/pages/controllers/pages_pages_controller.php:17
+#: /views/themed/admin/layouts/default.ctp:38
+msgid "Pages"
+msgstr ""
+
+#: /plugins/pages/controllers/pages_pages_controller.php:107
+msgid "Edit "
+msgstr ""
+
+#: /plugins/pages/controllers/pages_pages_controller.php:112
+msgid "Page has been saved"
+msgstr ""
+
+#: /plugins/pages/controllers/pages_pages_controller.php:114
+msgid "There are some errors, please correct them"
+msgstr ""
+
+#: /plugins/pages/views/pages_pages/admin_edit.ctp:3
+msgid "Edit Page"
+msgstr ""
+
+#: /plugins/pages/views/pages_pages/admin_edit.ctp:17
+msgid "Meta"
+msgstr ""
+
+#: /plugins/uac/uac_app_controller.php:17
+msgid "Users"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_friendships_controller.php:64
+msgid "Invalid id"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_friendships_controller.php:77
+msgid "Added friend"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_friendships_controller.php:94
+msgid "Invalid friend"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_friendships_controller.php:98
+msgid "Friendship deleted"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_friendships_controller.php:102
+msgid "Friendship was not deleted"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_images_controller.php:13
+msgid "Profile photos"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_images_controller.php:39
+msgid "The image has been saved"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_images_controller.php:43
+msgid "The image could not be saved. Please, try again."
+msgstr ""
+
+#: /plugins/uac/controllers/uac_images_controller.php:51
+msgid "Invalid id for image"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_images_controller.php:55
+msgid "Image deleted"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_images_controller.php:58
+msgid "Image was not deleted"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_profiles_controller.php:16
+#: /views/dashboard/index.ctp:12
+#: /views/elements/score_board.ctp:8
+#: /views/players/discover.ctp:43
+#: /views/themed/mobile/elements/user_area.ctp:8
+msgid "Profile"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_profiles_controller.php:44
+msgid "Your profile was saved"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_profiles_controller.php:49
+msgid "There is an error on your profile"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:36;85
+msgid "Unable to authenticate you using social networks"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:98
+msgid "Sorry but the activation code is invalid or expired"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:102
+msgid "Your account is created"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:110
+msgid "Ok, now you can login"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:117
+msgid "Please review the form, we can't create your account"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:162
+msgid "No user found with the provided credentials"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:189
+msgid "Activate your new account"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:203
+msgid "Your account has been successfully activated"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:220
+#: /plugins/uac/views/uac_users/password_change.ctp:1
+msgid "Change your password"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:248
+msgid "Please correct the errors below"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:249
+msgid "Your current password doesn't match"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:257
+msgid "Your password has been set"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:262
+msgid "new password"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:305
+msgid ""
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:316
+msgid "Sorry, we cant find any account with that e-mail address"
+msgstr ""
+
+#: /plugins/uac/controllers/uac_users_controller.php:324
+msgid "You will receive an e-mail with a code shortly"
+msgstr ""
+
+#: /plugins/uac/controllers/components/account.php:169
+msgid "New account activation"
+msgstr ""
+
+#: /plugins/uac/controllers/components/account.php:271
+msgid "password recovery"
+msgstr ""
+
+#: /plugins/uac/controllers/components/account.php:350
+msgid "You don't have permission to access that resource"
+msgstr ""
+
+#: /plugins/uac/controllers/components/account.php:381
+msgid "Invalid code"
+msgstr ""
+
+#: /plugins/uac/models/uac_user.php:90
+msgid "Passwords must match"
+msgstr ""
+
+#: /plugins/uac/views/elements/befriend.ctp:13
+msgid "Accept request"
+msgstr ""
+
+#: /plugins/uac/views/elements/befriend.ctp:20
+msgid "Add as friend"
+msgstr ""
+
+#: /plugins/uac/views/elements/unfriend.ctp:5
+msgid "Remove"
+msgstr ""
+
+#: /plugins/uac/views/elements/user_area.ctp:11
+msgid "Sign Out"
+msgstr ""
+
+#: /plugins/uac/views/elements/user_area.ctp:33
+msgid "Have an account?"
+msgstr ""
+
+#: /plugins/uac/views/elements/user_area.ctp:34
+#: /plugins/uac/views/uac_users/signin.ctp:12;20
+#: /views/elements/score_board.ctp:28
+#: /views/plugins/uac/uac_users/signin.ctp:9;21
+msgid "Log in"
+msgstr ""
+
+#: /plugins/uac/views/elements/user_area.ctp:36
+#: /plugins/uac/views/uac_users/signup.ctp:12;25
+#: /views/plugins/uac/uac_users/signup.ctp:9;26
+msgid "Sign up"
+msgstr ""
+
+#: /plugins/uac/views/uac_images/add.ctp:2
+msgid "Upload a picture"
+msgstr ""
+
+#: /plugins/uac/views/uac_images/add.ctp:8
+msgid "Upload"
+msgstr ""
+
+#: /plugins/uac/views/uac_images/index.ctp:2
+msgid "Profile Images"
+msgstr ""
+
+#: /plugins/uac/views/uac_images/index.ctp:9
+#: /views/announcements/view.ctp:14
+msgid "Edit"
+msgstr ""
+
+#: /plugins/uac/views/uac_images/index.ctp:10
+#: /views/announcements/view.ctp:15
+#: /views/events/delete.ctp:15
+#: /views/groups/delete.ctp:22
+#: /views/payments/manager_delete.ctp:28
+msgid "Delete"
+msgstr ""
+
+#: /plugins/uac/views/uac_images/index.ctp:10
+#: /views/events/view.ctp:17
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: /plugins/uac/views/uac_images/index.ctp:21
+msgid "Actions"
+msgstr ""
+
+#: /plugins/uac/views/uac_images/index.ctp:23
+msgid "New Image"
+msgstr ""
+
+#: /plugins/uac/views/uac_profiles/edit.ctp:8
+#: /views/plugins/uac/uac_profiles/edit.ctp:8
+msgid "Edit your profile"
+msgstr ""
+
+#: /plugins/uac/views/uac_profiles/edit.ctp:26
+#: /views/events/add.ctp:27
+#: /views/plugins/uac/uac_profiles/edit.ctp:32
+#: /views/venues/admin_index.ctp:17
+#: /views/venues/view.ctp:104
+msgid "Location"
+msgstr ""
+
+#: /plugins/uac/views/uac_profiles/edit.ctp:26
+#: /views/plugins/uac/uac_profiles/edit.ctp:32
+msgid "Let your friends know where you are"
+msgstr ""
+
+#: /plugins/uac/views/uac_profiles/edit.ctp:35
+#: /views/plugins/uac/uac_profiles/edit.ctp:29
+msgid "Can we check your location?<br />This allows you to find <strong>Venues</strong> and <strong>Friends</strong> near by."
+msgstr ""
+
+#: /plugins/uac/views/uac_profiles/edit.ctp:37
+#: /views/plugins/uac/uac_profiles/edit.ctp:41
+msgid "Save profile"
+msgstr ""
+
+#: /plugins/uac/views/uac_profiles/edit.ctp:47
+#: /views/plugins/uac/uac_profiles/edit.ctp:54
+msgid "Change picture"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/activate.ctp:1
+msgid "Activate your account"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/activate.ctp:7
+#: /plugins/uac/views/uac_users/password_change.ctp:18
+msgid "For your new password use letters and numbers, this will make it more secure"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/activate.ctp:7
+#: /plugins/uac/views/uac_users/password_change.ctp:18
+msgid "Your password has to be at least <strong>%s</strong> chars long"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/password_change.ctp:13
+msgid "For security please type your current password"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:3
+msgid "Recover your password"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:8
+msgid "If you have forgotten your password we can help you reset it"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:10
+msgid "Please enter your <strong>e-mail address</strong> and we will send you a link to change your password"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:19
+msgid "Request a password reset"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:29
+msgid "Helpful hints"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:30
+msgid "You will receive an e-mail with a link to request a password change"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:31
+msgid "Please allow a few minutes for the e-mail to arrive."
+msgstr ""
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:34
+msgid "Remember to add the address %s to your e-mail safelist"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/signin.ctp:13
+#: /views/plugins/uac/uac_users/signin.ctp:14
+msgid "Please login to continue"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/signin.ctp:27
+#: /plugins/uac/views/uac_users/signup.ctp:33
+msgid "Using other providers"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/signin.ctp:28
+#: /plugins/uac/views/uac_users/signup.ctp:34
+msgid "It's fast and easy"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/signin.ctp:34
+#: /views/plugins/uac/uac_users/signin.ctp:38
+msgid "Having trouble? did you"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/signin.ctp:34
+#: /views/plugins/uac/uac_users/signin.ctp:38
+msgid "forget your password?"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/signup.ctp:13
+#: /views/plugins/uac/uac_users/signup.ctp:14
+msgid "Create a new account"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/signup.ctp:22
+#: /views/plugins/uac/uac_users/signup.ctp:23
+msgid "Insert your invitation code for access"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/signup.ctp:40
+#: /views/plugins/uac/uac_users/signup.ctp:66
+msgid "By signing up you agree with the %s"
+msgstr ""
+
+#: /plugins/uac/views/uac_users/signup.ctp:40
+#: /views/plugins/uac/uac_users/signup.ctp:66
+msgid "terms of usage"
+msgstr ""
+
+#: /vendors/shells/tasks/mail.php:25
+msgid "Shell mail test: %s"
+msgstr ""
+
+#: /views/announcements/add.ctp:1
+#: /views/announcements/admin_index.ctp:9
+#: /views/announcements/edit.ctp:1
+#: /views/announcements/index.ctp:1
+#: /views/announcements/view.ctp:9
+#: /views/layouts/default.ctp:59
+msgid "Announcements"
+msgstr ""
+
+#: /views/announcements/add.ctp:4
+#: /views/announcements/edit.ctp:4
+#: /views/announcements/index.ctp:4
+#: /views/announcements/view.ctp:12
+msgid "Most recent"
+msgstr ""
+
+#: /views/announcements/add.ctp:5;47
+#: /views/announcements/admin_index.ctp:3
+#: /views/announcements/edit.ctp:5
+#: /views/announcements/index.ctp:5
+#: /views/announcements/view.ctp:13
+msgid "Create new"
+msgstr ""
+
+#: /views/announcements/add.ctp:14
+msgid "Add Announcement"
+msgstr ""
+
+#: /views/announcements/add.ctp:22;31
+#: /views/announcements/edit.ctp:24;33
+msgid "Time"
+msgstr ""
+
+#: /views/announcements/add.ctp:40
+#: /views/announcements/edit.ctp:42
+#: /views/groups/add.ctp:22
+#: /views/groups/edit.ctp:19
+#: /views/venues/add.ctp:51
+msgid "Activities (comma separated)"
+msgstr ""
+
+#: /views/announcements/add.ctp:40
+#: /views/announcements/edit.ctp:42
+#: /views/venues/add.ctp:51
+msgid "Tagging provides a way for users to filter information"
+msgstr ""
+
+#: /views/announcements/add.ctp:45
+msgid "Agree with the community guidelines"
+msgstr ""
+
+#: /views/announcements/add.ctp:53
+#: /views/announcements/edit.ctp:55
+msgid "Community guidelines"
+msgstr ""
+
+#: /views/announcements/add.ctp:55
+#: /views/announcements/edit.ctp:57
+msgid "The main purpose is to make information about sports events available to users"
+msgstr ""
+
+#: /views/announcements/add.ctp:56
+#: /views/announcements/edit.ctp:58
+msgid "All content must be sports related"
+msgstr ""
+
+#: /views/announcements/add.ctp:57
+#: /views/announcements/edit.ctp:59
+msgid "Offensive language will not be tolerated and may lead to account suspension"
+msgstr ""
+
+#: /views/announcements/admin_index.ctp:14
+#: /views/venues/admin_index.ctp:14
+msgid "Flagged"
+msgstr ""
+
+#: /views/announcements/admin_index.ctp:26;30;31
+#: /views/venues/admin_index.ctp:25;29
+msgid "yes"
+msgstr ""
+
+#: /views/announcements/admin_index.ctp:30;31
+#: /views/venues/admin_index.ctp:29
+msgid "no"
+msgstr ""
+
+#: /views/announcements/edit.ctp:14
+msgid "Edit Announcement"
+msgstr ""
+
+#: /views/announcements/edit.ctp:49
+msgid "Save"
+msgstr ""
+
+#: /views/announcements/index.ctp:26
+msgid "Sorry, no announcements here"
+msgstr ""
+
+#: /views/announcements/index.ctp:37
+#: /views/groups/search.ctp:48
+msgid "Activities"
+msgstr ""
+
+#: /views/announcements/index.ctp:49
+#: /views/players/find.ctp:57
+msgid "Disclaimer"
+msgstr ""
+
+#: /views/announcements/index.ctp:50
+msgid "These posts are community generated content and although some steps where taken to ensure the best possible quality of this content, the Planamatch.com team cannot be held responsible."
+msgstr ""
+
+#: /views/announcements/view.ctp:30
+msgid "When"
+msgstr ""
+
+#: /views/announcements/view.ctp:63
+msgid "Where"
+msgstr ""
+
+#: /views/announcements/view.ctp:70
+msgid "Details"
+msgstr ""
+
+#: /views/announcements/view.ctp:87
+#: /views/events/view.ctp:47
+#: /views/groups/view.ctp:65
+msgid "Comments"
+msgstr ""
+
+#: /views/announcements/view.ctp:106
+msgid "Share"
+msgstr ""
+
+#: /views/attendings/teams.ctp:11
+#: /views/events/view.ctp:15
+msgid "Team Manager"
+msgstr ""
+
+#: /views/attendings/teams.ctp:13
+msgid "Drag the players to break them up into teams"
+msgstr ""
+
+#: /views/attendings/teams.ctp:55
+msgid "Attendings"
+msgstr ""
+
+#: /views/attendings/view.ctp:41
+msgid "The awards are a sign of respect for the athlete, a way of reward someone for their good behaviour"
+msgstr ""
+
+#: /views/attendings/view.ctp:42
+msgid "Each player can give and award each match"
+msgstr ""
+
+#: /views/attendings/view.ctp:48
+msgid "You can award another badge to this player"
+msgstr ""
+
+#: /views/dashboard/admin_index.ctp:3
+#: /views/dashboard/index.ctp:1
+#: /views/elements/score_board.ctp:13
+#: /views/themed/mobile/elements/user_area.ctp:13
+msgid "Dashboard"
+msgstr ""
+
+#: /views/dashboard/admin_index.ctp:15
+msgid "Loading"
+msgstr ""
+
+#: /views/dashboard/admin_index.ctp:18
+msgid "Recent"
+msgstr ""
+
+#: /views/dashboard/index.ctp:9
+msgid "Notifications"
+msgstr ""
+
+#: /views/dashboard/index.ctp:12
+msgid "You should update your <strong>%s</strong>, some features will work better."
+msgstr ""
+
+#: /views/dashboard/index.ctp:15
+msgid "To help your friends recognize you more easily you should set your <strong>Screen name</strong>."
+msgstr ""
+
+#: /views/dashboard/index.ctp:18
+msgid "Using an <strong>avatar</strong> makes it easier for your friends to recognize you."
+msgstr ""
+
+#: /views/dashboard/index.ctp:22
+msgid "Setting the correct <strong>timezone</strong> puts you in sync with others."
+msgstr ""
+
+#: /views/dashboard/index.ctp:30
+msgid "Seems you are new here, why not start by creating a <strong>group</strong>? just %s"
+msgstr ""
+
+#: /views/dashboard/index.ctp:37
+msgid "What's new"
+msgstr ""
+
+#: /views/elements/avatar.ctp:53
+msgid "since"
+msgstr ""
+
+#: /views/elements/avatar.ctp:56
+msgid "from"
+msgstr ""
+
+#: /views/elements/avatar.ctp:60
+#: /views/plugins/uac/uac_profiles/edit.ctp:56
+msgid "View profile"
+msgstr ""
+
+#: /views/elements/avatar.ctp:61
+msgid "Send a message"
+msgstr ""
+
+#: /views/elements/discovery_location.ctp:4
+msgid "Currently looking near"
+msgstr ""
+
+#: /views/elements/group.ctp:19
+msgid "This is the group rating"
+msgstr ""
+
+#: /views/elements/group.ctp:32
+msgid "created by"
+msgstr ""
+
+#: /views/elements/group.ctp:36
+msgid "Since"
+msgstr ""
+
+#: /views/elements/mood_selector.ctp:6
+msgid "There's a lot of room for improvement"
+msgstr ""
+
+#: /views/elements/mood_selector.ctp:10
+msgid "It's ok I guess"
+msgstr ""
+
+#: /views/elements/mood_selector.ctp:14
+msgid "These guys are awesome!"
+msgstr ""
+
+#: /views/elements/paging.ctp:9
+msgid "‹ Previous"
+msgstr ""
+
+#: /views/elements/paging.ctp:29
+msgid "Next ›"
+msgstr ""
+
+#: /views/elements/question_hub.ctp:1
+msgid "Ask a question about Planamatch"
+msgstr ""
+
+#: /views/elements/score_board.ctp:9
+#: /views/themed/mobile/elements/user_area.ctp:9
+msgid "Sign out"
+msgstr ""
+
+#: /views/elements/score_board.ctp:26
+msgid "Sign up for an account"
+msgstr ""
+
+#: /views/elements/search.ctp:6
+msgid "Search for a %s"
+msgstr ""
+
+#: /views/elements/search.ctp:11
+#: /views/groups/add.ctp:6
+#: /views/groups/delete.ctp:6
+#: /views/groups/edit.ctp:6
+#: /views/groups/index.ctp:5
+#: /views/groups/invite.ctp:13
+#: /views/groups/pending.ctp:6
+#: /views/groups/search.ctp:11
+#: /views/groups/view.ctp:42
+msgid "Search"
+msgstr ""
+
+#: /views/elements/signup_callaction.ctp:3
+msgid "Start planing events"
+msgstr ""
+
+#: /views/elements/signup_callaction.ctp:7
+msgid "Sign up now and start planning your events"
+msgstr ""
+
+#: /views/elements/signup_callaction.ctp:9
+msgid "sign up now"
+msgstr ""
+
+#: /views/elements/comments/add.ctp:3
+msgid "Write a new comment"
+msgstr ""
+
+#: /views/elements/comments/add.ctp:3
+msgid "Click to toggle the comment form"
+msgstr ""
+
+#: /views/elements/events/event_list.ctp:42
+msgid "to be announced"
+msgstr ""
+
+#: /views/elements/events/event_stats.ctp:3
+#: /views/players/discover.ctp:4
+#: /views/venues/discover.ctp:4
+msgid "Players"
+msgstr ""
+
+#: /views/elements/events/event_stats.ctp:6
+msgid "Days left"
+msgstr ""
+
+#: /views/errors/error404.ctp:6
+msgid "Sorry but... it's a 404"
+msgstr ""
+
+#: /views/errors/error404.ctp:10
+msgid "Oh boy, where did that page go?"
+msgstr ""
+
+#: /views/errors/error404.ctp:13
+msgid "We can't find the page %s"
+msgstr ""
+
+#: /views/errors/error500.ctp:6
+msgid "Something's not right"
+msgstr ""
+
+#: /views/errors/error500.ctp:10
+msgid "Our servers are crumbling"
+msgstr ""
+
+#: /views/events/add.ctp:3
+#: /views/events/delete.ctp:1
+#: /views/events/edit.ctp:3
+#: /views/events/view.ctp:11
+#: /views/layouts/default.ctp:53
+#: /views/themed/mobile/layouts/default.ctp:59
+msgid "Events"
+msgstr ""
+
+#: /views/events/add.ctp:11
+msgid "It can anything you want from a BTT ride to a soccer match or a 5 Km run with your friends"
+msgstr ""
+
+#: /views/events/add.ctp:18
+msgid "You can try soccer match or kart racing"
+msgstr ""
+
+#: /views/events/add.ctp:20
+msgid "On which day will the event occur"
+msgstr ""
+
+#: /views/events/add.ctp:21
+msgid "The time of day that the event starts"
+msgstr ""
+
+#: /views/events/add.ctp:30
+msgid "Location to be announced"
+msgstr ""
+
+#: /views/events/add.ctp:31
+msgid "Where will the event take place"
+msgstr ""
+
+#: /views/events/add.ctp:39
+#: /views/events/edit.ctp:36
+msgid "Aditional info"
+msgstr ""
+
+#: /views/events/add.ctp:42
+msgid "You can set a meeting point or some ground rules"
+msgstr ""
+
+#: /views/events/add.ctp:49
+#: /views/events/index.ctp:5;16
+msgid "Create a new event"
+msgstr ""
+
+#: /views/events/add.ctp:55
+#: /views/groups/add.ctp:32
+#: /views/groups/search.ctp:61
+#: /views/payments/manager_add.ctp:47
+msgid "Helpful tips"
+msgstr ""
+
+#: /views/events/delete.ctp:5
+msgid "Are you sure you want to delete this event?"
+msgstr ""
+
+#: /views/events/edit.ctp:26
+msgid "Changing the date or time of the event will cause participating users status to be reset"
+msgstr ""
+
+#: /views/events/index.ctp:1
+msgid "Upcoming events"
+msgstr ""
+
+#: /views/events/index.ctp:11
+msgid "Your events"
+msgstr ""
+
+#: /views/events/index.ctp:19
+msgid "Invite your friends to a \"soccer match\""
+msgstr ""
+
+#: /views/events/view.ctp:17
+msgid "Delete Event"
+msgstr ""
+
+#: /views/events/view.ctp:19
+msgid "New Event"
+msgstr ""
+
+#: /views/events/view.ctp:31
+msgid "Guest list"
+msgstr ""
+
+#: /views/events/view.ctp:52
+msgid "Comments are closed"
+msgstr ""
+
+#: /views/events/view.ctp:71
+msgid "Invite more friends"
+msgstr ""
+
+#: /views/events/view.ctp:82
+msgid "Aren't you going?"
+msgstr ""
+
+#: /views/events/view.ctp:84
+msgid "You should RSVP the invite"
+msgstr ""
+
+#: /views/events/view.ctp:86
+msgid "This means you are going"
+msgstr ""
+
+#: /views/events/view.ctp:97
+msgid "Click to expand"
+msgstr ""
+
+#: /views/events/view.ctp:105
+msgid "Stats"
+msgstr ""
+
+#: /views/events/view.ctp:114
+msgid "Event information"
+msgstr ""
+
+#: /views/events/view.ctp:116
+msgid "RSS updates"
+msgstr ""
+
+#: /views/events/view.ctp:116
+msgid "Player activity feed"
+msgstr ""
+
+#: /views/events/view.ctp:117
+#: /views/groups/view.ctp:196
+#: /views/venues/view.ctp:123
+msgid "Share link"
+msgstr ""
+
+#: /views/events/view.ctp:118
+#: /views/groups/view.ctp:195
+msgid "Created by"
+msgstr ""
+
+#: /views/events/view.ctp:123
+msgid "Advertise"
+msgstr ""
+
+#: /views/events/widget_upcoming.ctp:9
+msgid "No upcoming events"
+msgstr ""
+
+#: /views/events/rss/view.ctp:7
+msgid "Attending activity"
+msgstr ""
+
+#: /views/events/rss/view.ctp:9
+msgid "Attending activity for %s"
+msgstr ""
+
+#: /views/groups/add.ctp:4;12
+#: /views/groups/delete.ctp:4
+#: /views/groups/edit.ctp:4
+#: /views/groups/index.ctp:4
+#: /views/groups/invite.ctp:11
+#: /views/groups/pending.ctp:4
+#: /views/groups/search.ctp:9
+msgid "Create a new group"
+msgstr ""
+
+#: /views/groups/add.ctp:19
+msgid "Unique name to identify your group of friends"
+msgstr ""
+
+#: /views/groups/add.ctp:21
+msgid "Specially useful on public groups for other users to know what your group is about"
+msgstr ""
+
+#: /views/groups/add.ctp:22
+msgid "What sports do you play? like soccer or softball"
+msgstr ""
+
+#: /views/groups/add.ctp:36
+msgid "Name your groups something your friends can easely identify. Try stuff like \"weekend joggers\" or \"sunday footballers\"."
+msgstr ""
+
+#: /views/groups/add.ctp:38
+msgid "For team sports, the groups can be the diferent teams, ex: \"blues\" vs \"reds\""
+msgstr ""
+
+#: /views/groups/add.ctp:40
+msgid "Making a group public, means that other users may find your group and request an invitation to join"
+msgstr ""
+
+#: /views/groups/delete.ctp:12
+msgid "Are you sure you want to delete this group?"
+msgstr ""
+
+#: /views/groups/edit.ctp:14
+msgid "Edit information"
+msgstr ""
+
+#: /views/groups/edit.ctp:19
+msgid "What sports do you play like soccer or softball"
+msgstr ""
+
+#: /views/groups/edit.ctp:21
+msgid "Allow comments"
+msgstr ""
+
+#: /views/groups/edit.ctp:26
+msgid "Make the Group public"
+msgstr ""
+
+#: /views/groups/index.ctp:16
+msgid "Start a new group"
+msgstr ""
+
+#: /views/groups/index.ctp:19
+msgid "Get all your friends together"
+msgstr ""
+
+#: /views/groups/index.ctp:40;54
+#: /views/groups/view.ctp:194
+msgid "Public"
+msgstr ""
+
+#: /views/groups/index.ctp:40;54
+#: /views/groups/view.ctp:194
+msgid "Private"
+msgstr ""
+
+#: /views/groups/index.ctp:49
+msgid "Pending aproval"
+msgstr ""
+
+#: /views/groups/invite.ctp:20
+msgid "Invite your friends to the group"
+msgstr ""
+
+#: /views/groups/invite.ctp:38
+msgid "Invite to this group"
+msgstr ""
+
+#: /views/groups/invite.ctp:46
+msgid "No friends yet, invite some by e-mail"
+msgstr ""
+
+#: /views/groups/invite.ctp:69
+msgid "Send invitations"
+msgstr ""
+
+#: /views/groups/invite.ctp:83
+#: /views/groups/view.ctp:146;163
+msgid "see all"
+msgstr ""
+
+#: /views/groups/invite.ctp:100
+#: /views/groups/view.ctp:123
+msgid "Members"
+msgstr ""
+
+#: /views/groups/invite.ctp:115
+msgid "helpful tip"
+msgstr ""
+
+#: /views/groups/invite.ctp:116
+msgid "Everything is better with your friends around."
+msgstr ""
+
+#: /views/groups/invite.ctp:117
+msgid "Invite your friends to join you by searching users already on planamatch or invite them to join the fun."
+msgstr ""
+
+#: /views/groups/pending.ctp:16
+msgid "Group memberships"
+msgstr ""
+
+#: /views/groups/pending.ctp:17
+msgid "There aren't any memberships yet"
+msgstr ""
+
+#: /views/groups/pending.ctp:22
+msgid "Approve memberships"
+msgstr ""
+
+#: /views/groups/pending.ctp:30
+msgid "Player"
+msgstr ""
+
+#: /views/groups/pending.ctp:31
+msgid "Membership requested"
+msgstr ""
+
+#: /views/groups/pending.ctp:47
+msgid "Approve"
+msgstr ""
+
+#: /views/groups/pending.ctp:51
+msgid "Invited players"
+msgstr ""
+
+#: /views/groups/pending.ctp:55
+#: /views/payments/manager_view.ctp:26
+msgid "User"
+msgstr ""
+
+#: /views/groups/pending.ctp:56
+msgid "Invitation sent"
+msgstr ""
+
+#: /views/groups/search.ctp:17
+msgid "Search groups"
+msgstr ""
+
+#: /views/groups/search.ctp:23
+msgid "Sorry! We can't find any groups near you yet"
+msgstr ""
+
+#: /views/groups/search.ctp:24
+msgid "We are currently searching in "
+msgstr ""
+
+#: /views/groups/search.ctp:29
+msgid "Your search results by"
+msgstr ""
+
+#: /views/groups/view.ctp:9
+msgid "groups"
+msgstr ""
+
+#: /views/groups/view.ctp:36
+msgid "Edit group"
+msgstr ""
+
+#: /views/groups/view.ctp:37
+msgid "Delete group"
+msgstr ""
+
+#: /views/groups/view.ctp:40
+msgid "Create group"
+msgstr ""
+
+#: /views/groups/view.ctp:56
+msgid "Your group application is pending review by the admin"
+msgstr ""
+
+#: /views/groups/view.ctp:58
+msgid "You where invited to join this group"
+msgstr ""
+
+#: /views/groups/view.ctp:88
+msgid "No comments here. Start a conversation"
+msgstr ""
+
+#: /views/groups/view.ctp:90
+msgid "Sorry but you can't comment unless you are part of the group"
+msgstr ""
+
+#: /views/groups/view.ctp:103
+msgid "Join this group"
+msgstr ""
+
+#: /views/groups/view.ctp:107
+msgid "Request invitation"
+msgstr ""
+
+#: /views/groups/view.ctp:114
+#: /views/players/find.ctp:49
+msgid "Invite friends"
+msgstr ""
+
+#: /views/groups/view.ctp:133
+msgid "Remove user from group"
+msgstr ""
+
+#: /views/groups/view.ctp:163
+#: /views/payments/widget_recent.ctp:1
+msgid "Recent Payments"
+msgstr ""
+
+#: /views/groups/view.ctp:167
+msgid "on"
+msgstr ""
+
+#: /views/groups/view.ctp:176
+msgid "How do you feel about this group?"
+msgstr ""
+
+#: /views/groups/view.ctp:185
+msgid "Leave this group"
+msgstr ""
+
+#: /views/groups/view.ctp:191
+msgid "Group information"
+msgstr ""
+
+#: /views/groups/view.ctp:194
+msgid "This group is"
+msgstr ""
+
+#: /views/helpers/interface.php:62
+msgid "Insuficient data to generate graph"
+msgstr ""
+
+#: /views/helpers/interface.php:79
+msgid "Toggle attending status (%s)"
+msgstr ""
+
+#: /views/home/index.ctp:15
+#: /views/venues/view.ctp:43
+msgid "Features"
+msgstr ""
+
+#: /views/home/index.ctp:83
+msgid "Create"
+msgstr ""
+
+#: /views/home/index.ctp:88
+#: /views/players/lightbox_friends.ctp:12
+msgid "Invite"
+msgstr ""
+
+#: /views/home/index.ctp:93
+msgid "Play"
+msgstr ""
+
+#: /views/home/index.ctp:105
+msgid "From the blog"
+msgstr ""
+
+#: /views/layouts/default.ctp:50
+#: /views/players/discover.ctp:1
+#: /views/venues/discover.ctp:1
+msgid "Discover"
+msgstr ""
+
+#: /views/layouts/default.ctp:50
+msgid "What's around"
+msgstr ""
+
+#: /views/layouts/default.ctp:53
+msgid "Start inviting"
+msgstr ""
+
+#: /views/layouts/default.ctp:56
+msgid "Make your teams"
+msgstr ""
+
+#: /views/layouts/default.ctp:59
+msgid "Bulletin Board"
+msgstr ""
+
+#: /views/layouts/default.ctp:62
+#: /views/themed/mobile/layouts/default.ctp:76
+msgid "About"
+msgstr ""
+
+#: /views/layouts/default.ctp:62
+msgid "What is this"
+msgstr ""
+
+#: /views/layouts/default.ctp:98
+msgid "More"
+msgstr ""
+
+#: /views/layouts/default.ctp:100
+msgid "Blog"
+msgstr ""
+
+#: /views/layouts/default.ctp:101
+#: /views/plugins/contacts/contacts/add.ctp:2
+msgid "Contact us"
+msgstr ""
+
+#: /views/layouts/default.ctp:102
+#: /views/pages/privacy_policy.ctp:1
+msgid "Privacy Policy"
+msgstr ""
+
+#: /views/layouts/default.ctp:103
+msgid "Questions?"
+msgstr ""
+
+#: /views/layouts/default.ctp:104
+msgid "Donate"
+msgstr ""
+
+#: /views/layouts/default.ctp:109
+msgid "Languages"
+msgstr ""
+
+#: /views/layouts/default.ctp:118
+msgid "Stay in the loop"
+msgstr ""
+
+#: /views/layouts/email/html/default.ctp:100
+msgid "was developed by"
+msgstr ""
+
+#: /views/pages/about.ctp:6
+msgid "About planamatch.com"
+msgstr ""
+
+#: /views/pages/new_user.ctp:1
+msgid "Welcome to sports events made simple"
+msgstr ""
+
+#: /views/pages/subscription.ctp:1
+msgid "Subscribe to our newsletter"
+msgstr ""
+
+#: /views/pages/subscription.ctp:5
+msgid "Just fill in your name and e-mail"
+msgstr ""
+
+#: /views/pages/subscription.ctp:29
+msgid "Why?"
+msgstr ""
+
+#: /views/pages/subscription.ctp:30
+msgid "Yeah baby! It's free."
+msgstr ""
+
+#: /views/pages/subscription.ctp:31
+msgid "We promise not to spam or sell your email."
+msgstr ""
+
+#: /views/pages/subscription.ctp:32
+msgid "We just wan't to keep you up to date with new stuff on the site."
+msgstr ""
+
+#: /views/pages/user_agreement.ctp:1
+msgid "Terms of usage"
+msgstr ""
+
+#: /views/payments/index.ctp:17
+msgid "Your Payments"
+msgstr ""
+
+#: /views/payments/index.ctp:24
+#: /views/payments/manager_view.ctp:25
+msgid "when"
+msgstr ""
+
+#: /views/payments/index.ctp:25
+msgid "Group"
+msgstr ""
+
+#: /views/payments/index.ctp:26
+#: /views/payments/manager_view.ctp:27
+msgid "Amount"
+msgstr ""
+
+#: /views/payments/index.ctp:27
+#: /views/payments/manager_delete.ctp:16
+#: /views/payments/manager_view.ctp:28
+msgid "Note"
+msgstr ""
+
+#: /views/payments/index.ctp:49
+#: /views/payments/manager_view.ctp:58
+msgid "Chart"
+msgstr ""
+
+#: /views/payments/manager_add.ctp:9
+msgid "View payments"
+msgstr ""
+
+#: /views/payments/manager_add.ctp:18
+msgid "Register a new payment from"
+msgstr ""
+
+#: /views/payments/manager_add.ctp:25
+msgid "How much did you receive"
+msgstr ""
+
+#: /views/payments/manager_add.ctp:26
+msgid "In case you need some reminder..."
+msgstr ""
+
+#: /views/payments/manager_add.ctp:49
+msgid "Group admins can keep track of players fees. All payments will be available for each user."
+msgstr ""
+
+#: /views/payments/manager_delete.ctp:7
+msgid "Are you sure you want to delete this payment?"
+msgstr ""
+
+#: /views/payments/manager_delete.ctp:10
+msgid "Value"
+msgstr ""
+
+#: /views/payments/manager_delete.ctp:12
+msgid "Made on"
+msgstr ""
+
+#: /views/payments/manager_view.ctp:12
+msgid "Your payments"
+msgstr ""
+
+#: /views/payments/manager_view.ctp:20
+msgid "Group Payments"
+msgstr ""
+
+#: /views/payments/widget_recent.ctp:18
+msgid "No payments recorded"
+msgstr ""
+
+#: /views/players/discover.ctp:13
+msgid "Players near your location"
+msgstr ""
+
+#: /views/players/discover.ctp:31
+msgid "We cant find anyone. Why not start a %s and invite your neighbors."
+msgstr ""
+
+#: /views/players/discover.ctp:31
+msgid "new group"
+msgstr ""
+
+#: /views/players/discover.ctp:42
+msgid "Quick tip"
+msgstr ""
+
+#: /views/players/discover.ctp:43
+msgid "Update your %s with your location to find players near you"
+msgstr ""
+
+#: /views/players/find.ctp:3
+#: /views/players/index.ctp:3
+#: /views/players/view.ctp:29
+msgid "Public profiles"
+msgstr ""
+
+#: /views/players/find.ctp:4;30
+#: /views/players/index.ctp:4
+#: /views/players/view.ctp:27
+msgid "Find friends"
+msgstr ""
+
+#: /views/players/find.ctp:8
+msgid "Find your friends or invite more to planamatch"
+msgstr ""
+
+#: /views/players/find.ctp:11
+msgid "Select provider"
+msgstr ""
+
+#: /views/players/find.ctp:34
+msgid "Found %s user(s) on planamatch"
+msgstr ""
+
+#: /views/players/find.ctp:43
+msgid "Invite your friends to planamatch"
+msgstr ""
+
+#: /views/players/friends.ctp:1;56
+#: /views/players/view.ctp:119
+msgid "Friends"
+msgstr ""
+
+#: /views/players/friends.ctp:7
+msgid "Friend requests"
+msgstr ""
+
+#: /views/players/friends.ctp:43
+msgid "Friend suggestions"
+msgstr ""
+
+#: /views/players/friends.ctp:70
+msgid "People you may know"
+msgstr ""
+
+#: /views/players/index.ctp:10
+msgid "Public Users"
+msgstr ""
+
+#: /views/players/lightbox_friends.ctp:18
+msgid "Sorry, I couldn't find anyone."
+msgstr ""
+
+#: /views/players/lightbox_friends.ctp:19
+msgid "Head on to the groups and start your own."
+msgstr ""
+
+#: /views/players/view.ctp:5
+msgid "profile"
+msgstr ""
+
+#: /views/players/view.ctp:25
+msgid "Edit Profile"
+msgstr ""
+
+#: /views/players/view.ctp:26
+msgid "Change Password"
+msgstr ""
+
+#: /views/players/view.ctp:38
+msgid "About the user"
+msgstr ""
+
+#: /views/players/view.ctp:49
+msgid "Statistics"
+msgstr ""
+
+#: /views/players/view.ctp:53
+msgid "Total"
+msgstr ""
+
+#: /views/players/view.ctp:54
+msgid "Attended"
+msgstr ""
+
+#: /views/players/view.ctp:55
+msgid "Missed"
+msgstr ""
+
+#: /views/players/view.ctp:95
+msgid "Remove from friends"
+msgstr ""
+
+#: /views/players/view.ctp:97
+msgid "Send private message"
+msgstr ""
+
+#: /views/plugins/contacts/contacts/add.ctp:16
+msgid "Send"
+msgstr ""
+
+#: /views/plugins/contacts/contacts/add.ctp:25
+msgid "I have a question"
+msgstr ""
+
+#: /views/plugins/contacts/contacts/add.ctp:35
+msgid "But my question is private"
+msgstr ""
+
+#: /views/plugins/contacts/contacts/add.ctp:37
+msgid "Go a head and use the form on the left we promise to reply shortly."
+msgstr ""
+
+#: /views/plugins/msgs/msgs_messages/index.ctp:3
+#: /views/plugins/msgs/msgs_messages/send.ctp:4
+#: /views/plugins/msgs/msgs_messages/sent.ctp:3
+#: /views/plugins/msgs/msgs_messages/view.ctp:3
+msgid "Private messages"
+msgstr ""
+
+#: /views/plugins/msgs/msgs_messages/index.ctp:20
+#: /views/plugins/msgs/msgs_messages/view.ctp:33
+msgid "Received"
+msgstr ""
+
+#: /views/plugins/msgs/msgs_messages/sent.ctp:13
+msgid "Sent messages"
+msgstr ""
+
+#: /views/plugins/uac/uac_profiles/edit.ctp:55
+msgid "Change password"
+msgstr ""
+
+#: /views/plugins/uac/uac_profiles/edit.ctp:57
+msgid "View friends"
+msgstr ""
+
+#: /views/plugins/uac/uac_users/signup.ctp:23
+msgid "Invitation code"
+msgstr ""
+
+#: /views/themed/admin/layouts/default.ctp:27
+msgid "ADMINISTRATION"
+msgstr ""
+
+#: /views/themed/admin/layouts/default.ctp:39
+#: /views/venues/add.ctp:12;15
+#: /views/venues/admin_index.ctp:9
+#: /views/venues/discover.ctp:5;13
+#: /views/venues/index.ctp:3
+#: /views/venues/view.ctp:17;20
+msgid "Venues"
+msgstr ""
+
+#: /views/venues/add.ctp:23
+#: /views/venues/admin_index.ctp:3
+msgid "New Venue"
+msgstr ""
+
+#: /views/venues/add.ctp:31
+msgid "Type and address for autocomplete and a map"
+msgstr ""
+
+#: /views/venues/add.ctp:57
+#: /views/venues/admin_add.ctp:5
+msgid "Create new venue"
+msgstr ""
+
+#: /views/venues/add.ctp:58
+#: /views/venues/admin_add.ctp:6
+#: /views/venues/admin_edit.ctp:7
+msgid "go back"
+msgstr ""
+
+#: /views/venues/admin_edit.ctp:6
+msgid "Save changes"
+msgstr ""
+
+#: /views/venues/admin_index.ctp:16
+msgid "URL"
+msgstr ""
+
+#: /views/venues/admin_index.ctp:18
+msgid "Active"
+msgstr ""
+
+#: /views/venues/admin_index.ctp:28
+msgid "Yes"
+msgstr ""
+
+#: /views/venues/discover.ctp:19
+msgid "Fav'ed"
+msgstr ""
+
+#: /views/venues/discover.ctp:20
+msgid "Distance"
+msgstr ""
+
+#: /views/venues/index.ctp:9
+msgid "Nearby"
+msgstr ""
+
+#: /views/venues/index.ctp:10
+msgid "Maps"
+msgstr ""
+
+#: /views/venues/index.ctp:11
+msgid "Locations"
+msgstr ""
+
+#: /views/venues/index.ctp:19
+msgid "There are no Venues near by"
+msgstr ""
+
+#: /views/venues/index.ctp:39
+msgid "Type an address here"
+msgstr ""
+
+#: /views/venues/view.ctp:9
+msgid "venues"
+msgstr ""
+
+#: /views/venues/view.ctp:39
+msgid "Do you own a venue?"
+msgstr ""
+
+#: /views/venues/view.ctp:40
+msgid "You can personalize a page just like this one"
+msgstr ""
+
+#: /views/venues/view.ctp:46
+msgid "Post updates"
+msgstr ""
+
+#: /views/venues/view.ctp:46;49;52
+msgid "Lorem ipsum"
+msgstr ""
+
+#: /views/venues/view.ctp:49
+msgid "Add pictures"
+msgstr ""
+
+#: /views/venues/view.ctp:52
+msgid "Overview"
+msgstr ""
+
+#: /views/venues/view.ctp:60
+msgid "Latest news"
+msgstr ""
+
+#: /views/venues/view.ctp:83
+msgid "More Pictures"
+msgstr ""
+
+#: /views/venues/view.ctp:111
+msgid "Address"
+msgstr ""
+
+#: /views/venues/view.ctp:111
+msgid "Unknown"
+msgstr ""
+
+#: /views/venues/view.ctp:116
+msgid "Venue information"
+msgstr ""
+
+#: /views/venues/view.ctp:119
+msgid "Times favorited"
+msgstr ""
+
+#: /views/venues/view.ctp:121
+msgid "Venue posts feed"
+msgstr ""
+
+#: /views/venues/view.ctp:130
+msgid "Sponsor"
+msgstr ""
+
+#: /webroot/test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+

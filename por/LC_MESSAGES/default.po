@@ -1,0 +1,2336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Planamatch\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Rui Cruz <mail@ruicruz.com>\n"
+"Language-Team:  <hello@planamatch.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: PORTUGAL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: /app_controller.php:154
+#: /controllers/announcements_controller.php:25
+msgid "Only administrators have access to that area"
+msgstr "Apenas o administrador tem acesso a essa área"
+
+#: /controllers/announcements_controller.php:37
+msgid "The access to that item is restricted"
+msgstr "Acesso restrito"
+
+#: /controllers/announcements_controller.php:112
+msgid "You must agree with the community guidelines"
+msgstr "Concordo com "
+
+#: /controllers/announcements_controller.php:118;137;185;202
+msgid "The announcement has been saved"
+msgstr "O anuncio foi guardado."
+
+#: /controllers/announcements_controller.php:123;140;188;205
+msgid "The announcement could not be saved. Please, try again."
+msgstr "O anuncio não pode ser gravado. Por favor, tenta novamente."
+
+#: /controllers/announcements_controller.php:132;175;197
+msgid "Invalid announcement"
+msgstr "Anuncio inválido"
+
+#: /controllers/announcements_controller.php:158;217
+msgid "Invalid id for announcement"
+msgstr "Id inválido para o anuncio"
+
+#: /controllers/announcements_controller.php:162;221
+msgid "Announcement deleted"
+msgstr "Anuncio eliminado"
+
+#: /controllers/announcements_controller.php:165;224
+msgid "Announcement was not deleted"
+msgstr "O anuncio não foi removido"
+
+#: /controllers/attendings_controller.php:85
+msgid "Only the game admin has access to this event"
+msgstr "Apenas o administrador do evento tem acesso"
+
+#: /controllers/attendings_controller.php:92
+msgid "You dont have access to this event"
+msgstr "Tu não tens acesso a este evento"
+
+#: /controllers/attendings_controller.php:99
+msgid "Incorrect parameter or no access"
+msgstr "Parâmetro incorrecto ou sem acesso"
+
+#: /controllers/attendings_controller.php:139
+msgid "Player status updated"
+msgstr "Status do jogador actualizado"
+
+#: /controllers/attendings_controller.php:141
+msgid "Error, the stauts could not be updated"
+msgstr "Erro, o status não pode ser actualizado"
+
+#: /controllers/attendings_controller.php:169
+msgid "No Access"
+msgstr "Sem acesso"
+
+#: /controllers/attendings_controller.php:182
+msgid "Player already on the roster"
+msgstr "Jogador já no plantel"
+
+#: /controllers/attendings_controller.php:199
+msgid "Player added to roster"
+msgstr "Jogador adicionado à lista"
+
+#: /controllers/attendings_controller.php:209
+msgid "Ups, nothing happened"
+msgstr "Ups, não aconteceu nada"
+
+#: /controllers/events_controller.php:32
+#: /views/events/widget_upcoming.ctp:1
+#: /views/events/rss/index.ctp:7;9
+msgid "Upcoming Events"
+msgstr "Próximos eventos"
+
+#: /controllers/events_controller.php:65
+msgid "Event "
+msgstr "Evento"
+
+#: /controllers/events_controller.php:123
+#: /views/events/add.ctp:9
+msgid "Create a new Event"
+msgstr "Criar um novo evento"
+
+#: /controllers/events_controller.php:129
+msgid "The Event has been saved, start inviting your friends"
+msgstr "O evento foi gravado, começa a convidar os teus amigos"
+
+#: /controllers/events_controller.php:134;175
+msgid "The Event could not be saved. Please, try again."
+msgstr "O evento não pode ser gravado. Por favor, tenta novamente."
+
+#: /controllers/events_controller.php:149
+#: /views/events/edit.ctp:9
+#: /views/events/view.ctp:16
+msgid "Edit Event"
+msgstr "Editar Evento"
+
+#: /controllers/events_controller.php:152;200
+msgid "Invalid Event"
+msgstr "Evento inválido"
+
+#: /controllers/events_controller.php:170
+msgid "The Event has been saved."
+msgstr "O evento foi gravado."
+
+#: /controllers/events_controller.php:186;209
+#: /controllers/groups_controller.php:296;315;450
+msgid "Access Denied."
+msgstr "Acesso negado."
+
+#: /controllers/events_controller.php:220
+msgid "Event deleted"
+msgstr "Evento removido"
+
+#: /controllers/groups_controller.php:41
+#: /views/groups/add.ctp:1
+#: /views/groups/delete.ctp:1
+#: /views/groups/edit.ctp:1
+#: /views/groups/index.ctp:1
+#: /views/groups/invite.ctp:8
+#: /views/groups/pending.ctp:1
+#: /views/groups/search.ctp:6
+#: /views/groups/view.ctp:31
+#: /views/layouts/default.ctp:56
+#: /views/players/index.ctp:21
+#: /views/players/view.ctp:110
+#: /views/themed/mobile/layouts/default.ctp:60
+msgid "Groups"
+msgstr "Grupos"
+
+#: /controllers/groups_controller.php:51
+#: /views/groups/add.ctp:5
+#: /views/groups/delete.ctp:5
+#: /views/groups/edit.ctp:5
+#: /views/groups/index.ctp:11
+#: /views/groups/invite.ctp:12
+#: /views/groups/pending.ctp:5
+#: /views/groups/search.ctp:10
+#: /views/groups/view.ctp:41
+#: /views/payments/index.ctp:11
+#: /views/payments/manager_add.ctp:10
+#: /views/payments/manager_view.ctp:11
+msgid "Your groups"
+msgstr "Os teus grupos"
+
+#: /controllers/groups_controller.php:121
+msgid "Groups: Tagged "
+msgstr "Grupos com a Tag"
+
+#: /controllers/groups_controller.php:129
+#: /controllers/venues_controller.php:39
+msgid "Please use 3 or more characters in the search"
+msgstr "Por favor, utiliza 3 ou mais letras na pesquisa"
+
+#: /controllers/groups_controller.php:158
+msgid "Update your profile with your location so we can provide groups near you"
+msgstr ""
+
+#: /controllers/groups_controller.php:163
+msgid "Groups: searching "
+msgstr "Grupos: pesquisa"
+
+#: /controllers/groups_controller.php:184
+msgid "The group you selected is private or doesn't exist."
+msgstr "O grupo selecionado é privado ou não existe."
+
+#: /controllers/groups_controller.php:255
+msgid "Create a new Group"
+msgstr "Criar um novo grupo"
+
+#: /controllers/groups_controller.php:259
+msgid "You just created a new group."
+msgstr "Acabaste de criar um novo grupo."
+
+#: /controllers/groups_controller.php:264;287
+msgid "The Group could not be saved. Please, try again."
+msgstr "O grupo não pode ser gravado. Por favor, tenta novamente."
+
+#: /controllers/groups_controller.php:272
+msgid "Edit Group"
+msgstr "Editar Grupo"
+
+#: /controllers/groups_controller.php:274
+msgid "Invalid Group"
+msgstr "Grupo inválido"
+
+#: /controllers/groups_controller.php:284
+msgid "The Group has been saved"
+msgstr "O grupo foi gravado"
+
+#: /controllers/groups_controller.php:306
+msgid "Invalid id for Group"
+msgstr "Id inválido para o grupo"
+
+#: /controllers/groups_controller.php:325
+msgid "Group deleted"
+msgstr "Grupo removido"
+
+#: /controllers/groups_controller.php:342
+#: /views/dashboard/index.ctp:58
+#: /views/groups/index.ctp:35
+#: /views/groups/invite.ctp:83
+#: /views/groups/view.ctp:146
+msgid "Invitations"
+msgstr "Convites"
+
+#: /controllers/groups_controller.php:349;543
+msgid "You are not this group's administrator"
+msgstr "Tu não és o administrador deste grupo"
+
+#: /controllers/groups_controller.php:364
+msgid "Oh ho! player not found"
+msgstr "Oh não! Jogador não encontrado"
+
+#: /controllers/groups_controller.php:372
+msgid "Player invited"
+msgstr "Jogador convidado"
+
+#: /controllers/groups_controller.php:455
+msgid "Cannot remove yourself from the group."
+msgstr "Não é possível retirar-se do grupo."
+
+#: /controllers/groups_controller.php:460
+msgid "User subscription canceled"
+msgstr "Subscrição do utilizador cancelada"
+
+#: /controllers/groups_controller.php:462
+msgid "Unable to remove user from group"
+msgstr "Não é possível remover o utilizador do grupo"
+
+#: /controllers/groups_controller.php:489
+msgid "Your request has been sent and will be reviewed by the group admin"
+msgstr "Seu pedido foi enviado e será analisada pelo grupo admin"
+
+#: /controllers/groups_controller.php:498
+msgid "You just accepted the invitation to belong to this group"
+msgstr "Acabaste de aceitar o convite para pertencer a este grupo"
+
+#: /controllers/groups_controller.php:509
+msgid "You no longer belong to this group"
+msgstr "Já não pertences a este grupo"
+
+#: /controllers/groups_controller.php:513
+msgid "You canceled your request"
+msgstr "Você cancelou o seu pedido"
+
+#: /controllers/groups_controller.php:535
+msgid "Pending memberships"
+msgstr "Subscrição pendente"
+
+#: /controllers/groups_controller.php:596
+msgid "Members approved"
+msgstr "Membros aprovados"
+
+#: /controllers/groups_controller.php:615
+msgid "Your vote was recorded"
+msgstr "Seu voto foi registrado"
+
+#: /controllers/groups_controller.php:619
+msgid "Sorry, we cant record your vote"
+msgstr "Desculpe, não podemos registrar o seu voto"
+
+#: /controllers/home_controller.php:18
+msgid "Plan sports events with your friends"
+msgstr "Planeia eventos com os teus amigos"
+
+#: /controllers/payments_controller.php:8
+#: /views/groups/view.ctp:38
+#: /views/payments/index.ctp:8
+#: /views/payments/manager_add.ctp:6
+#: /views/payments/manager_delete.ctp:1
+#: /views/payments/manager_view.ctp:8
+#, fuzzy
+msgid "Membership fees"
+msgstr "O pedido de subscrição ao grupo foi feita"
+
+#: /controllers/payments_controller.php:28;39
+#, fuzzy
+msgid "Only managers have access to that area"
+msgstr "Apenas o administrador do evento tem acesso"
+
+#: /controllers/payments_controller.php:59
+msgid "Payments made by you"
+msgstr "Os pagamentos feitos por você"
+
+#: /controllers/payments_controller.php:110
+#: /views/groups/view.ctp:131
+msgid "Register new payment"
+msgstr "Registre-se novo pagamento"
+
+#: /controllers/payments_controller.php:123
+#, fuzzy
+msgid "The selected user doesn't belong to the group"
+msgstr "O utilizador seleccionado não existe"
+
+#: /controllers/payments_controller.php:140
+msgid "Payment registered"
+msgstr "Pagamento registrados"
+
+#: /controllers/payments_controller.php:156
+#, fuzzy
+msgid "Payments made to this Group"
+msgstr "Pagamentos efetuados neste grupo"
+
+#: /controllers/payments_controller.php:213
+msgid "Payment deleted"
+msgstr "Pagamento excluído"
+
+#: /controllers/players_controller.php:24
+msgid "Players with public profiles"
+msgstr "Os jogadores com perfis públicos"
+
+#: /controllers/players_controller.php:62
+msgid "Update your profile with your location so we can find players near you"
+msgstr ""
+
+#: /controllers/players_controller.php:152
+msgid "The selected user doesn't exist"
+msgstr "O utilizador seleccionado não existe"
+
+#: /controllers/venues_controller.php:127;212
+msgid "Venue Added"
+msgstr "Local Adicionado"
+
+#: /controllers/venues_controller.php:130;215;229
+msgid "Please review the form"
+msgstr "Por favor, reveja o formulário"
+
+#: /controllers/venues_controller.php:226
+msgid "Venue Saved"
+msgstr "Local Saved"
+
+#: /models/announcement.php:87
+msgid "Invalid Announcement."
+msgstr "Anuncio inválido"
+
+#: /plugins/comments/controllers/comments_posts_controller.php:15
+msgid "Comment saved"
+msgstr "Comentário salvo"
+
+#: /plugins/comments/controllers/comments_posts_controller.php:23
+msgid "Unable to save your comment"
+msgstr "Não foi possível salvar o seu comentário"
+
+#: /plugins/comments/controllers/comments_posts_controller.php:38
+msgid "Comment deleted"
+msgstr "Comentário excluído"
+
+#: /plugins/comments/controllers/comments_posts_controller.php:43
+msgid "You cannot delete that comment"
+msgstr "Você não pode excluir esse comentário"
+
+#: /plugins/comments/views/elements/comments/post.ctp:23
+#: /views/elements/comments/post.ctp:23
+msgid "Delete comment"
+msgstr "Excluir comentário"
+
+#: /plugins/comments/views/elements/comments/post.ctp:43
+#: /views/elements/comments/post.ctp:43
+msgid "comment deleted by the author"
+msgstr "comentário excluído pelo autor"
+
+#: /plugins/contacts/controllers/contacts_controller.php:29
+msgid "Thank you for contacting us"
+msgstr "Obrigado por nos contatar"
+
+#: /plugins/contacts/controllers/contacts_controller.php:43
+msgid "Please Correct Errors"
+msgstr "Corrija os erros"
+
+#: /plugins/contacts/views/contacts/add.ctp:1
+#: /views/plugins/contacts/contacts/add.ctp:6
+msgid "We'd love to hear from you"
+msgstr "Adoramos que nos contactem"
+
+#: /plugins/contacts/views/contacts/admin_index.ctp:2
+#: /views/venues/add.ctp:54
+msgid "Contacts"
+msgstr "Contactos"
+
+#: /plugins/contacts/views/contacts/admin_index.ctp:7
+#: /views/venues/discover.ctp:18
+msgid "Name"
+msgstr "Nome"
+
+#: /plugins/contacts/views/contacts/admin_index.ctp:8
+#: /plugins/msgs/views/msgs_messages/index.ctp:16
+#: /plugins/msgs/views/msgs_messages/sent.ctp:16
+#: /views/plugins/msgs/msgs_messages/index.ctp:19
+#: /views/plugins/msgs/msgs_messages/sent.ctp:19
+msgid "Subject"
+msgstr "Assunto"
+
+#: /plugins/contacts/views/contacts/admin_index.ctp:9
+msgid "Email"
+msgstr "E-mail"
+
+#: /plugins/contacts/views/contacts/admin_index.ctp:10
+msgid "Timestamp"
+msgstr "Timestamp"
+
+#: /plugins/contacts/views/contacts/admin_view.ctp:2
+msgid "Message"
+msgstr "Mensagem"
+
+#: /plugins/invitation/controllers/invitation_codes_controller.php:14
+msgid "New Invitation codes generated"
+msgstr "códigos convite Nova Geração"
+
+#: /plugins/invitation/views/invitation_codes/admin_add.ctp:3
+msgid "Generate Invitation Codes"
+msgstr "Gerar códigos de convite"
+
+#: /plugins/invitation/views/invitation_codes/admin_add.ctp:9
+#: /views/events/add.ctp:16
+#: /views/events/view.ctp:95
+msgid "Description"
+msgstr "Descrição"
+
+#: /plugins/invitation/views/invitation_codes/admin_add.ctp:17
+msgid "Optional"
+msgstr "Opcional"
+
+#: /plugins/msgs/msgs_app_controller.php:10
+#: /plugins/msgs/views/msgs_messages/view.ctp:12
+#: /views/elements/score_board.ctp:15
+#: /views/themed/mobile/elements/user_area.ctp:15
+#, fuzzy
+msgid "Messages"
+msgstr "Mensagem"
+
+#: /plugins/msgs/controllers/msgs_messages_controller.php:40
+#, fuzzy
+msgid "Your private message was sent"
+msgstr "Seu perfil foi salvo"
+
+#: /plugins/msgs/views/msgs_messages/index.ctp:5
+#: /plugins/msgs/views/msgs_messages/sent.ctp:5
+#: /plugins/msgs/views/msgs_messages/view.ctp:6
+#, fuzzy
+msgid "New Message"
+msgstr "Enviar uma mensagem"
+
+#: /plugins/msgs/views/msgs_messages/index.ctp:6
+#: /plugins/msgs/views/msgs_messages/reply.ctp:6
+#: /plugins/msgs/views/msgs_messages/send.ctp:6
+#: /plugins/msgs/views/msgs_messages/view.ctp:8
+#: /views/plugins/msgs/msgs_messages/index.ctp:7
+#: /views/plugins/msgs/msgs_messages/send.ctp:9
+#: /views/plugins/msgs/msgs_messages/view.ctp:8
+#, fuzzy
+msgid "Sent Messages"
+msgstr "enviar para %s\n"
+
+#: /plugins/msgs/views/msgs_messages/index.ctp:10
+#: /plugins/msgs/views/msgs_messages/reply.ctp:5
+#: /plugins/msgs/views/msgs_messages/send.ctp:5
+#: /plugins/msgs/views/msgs_messages/sent.ctp:6
+#: /plugins/msgs/views/msgs_messages/view.ctp:7
+#: /views/plugins/msgs/msgs_messages/index.ctp:13
+#: /views/plugins/msgs/msgs_messages/send.ctp:8
+#: /views/plugins/msgs/msgs_messages/sent.ctp:7
+#: /views/plugins/msgs/msgs_messages/view.ctp:7
+msgid "Inbox"
+msgstr ""
+
+#: /plugins/msgs/views/msgs_messages/index.ctp:15
+#: /plugins/msgs/views/msgs_messages/view.ctp:16
+#: /views/payments/manager_add.ctp:41
+#: /views/payments/manager_delete.ctp:41
+#: /views/plugins/msgs/msgs_messages/index.ctp:18
+#: /views/plugins/msgs/msgs_messages/view.ctp:27
+#, fuzzy
+msgid "From"
+msgstr "de"
+
+#: /plugins/msgs/views/msgs_messages/index.ctp:17
+msgid "Recieved"
+msgstr "Recebidos"
+
+#: /plugins/msgs/views/msgs_messages/reply.ctp:10
+#, fuzzy
+msgid "Reply to the message"
+msgstr "Responder a %s"
+
+#: /plugins/msgs/views/msgs_messages/send.ctp:10
+#: /views/plugins/msgs/msgs_messages/send.ctp:15
+#, fuzzy
+msgid "Send a new private message to"
+msgstr "Enviar uma mensagem"
+
+#: /plugins/msgs/views/msgs_messages/sent.ctp:10;17
+#: /plugins/msgs/views/msgs_messages/view.ctp:18
+#: /views/plugins/msgs/msgs_messages/sent.ctp:20
+#, fuzzy
+msgid "Sent"
+msgstr "enviar para %s\n"
+
+#: /plugins/msgs/views/msgs_messages/sent.ctp:15
+#: /views/payments/manager_add.ctp:37
+#: /views/payments/manager_delete.ctp:37
+#: /views/plugins/msgs/msgs_messages/sent.ctp:18
+#, fuzzy
+msgid "To"
+msgstr "Mudando para %s"
+
+#: /plugins/msgs/views/msgs_messages/view.ctp:5
+#, fuzzy
+msgid "Reply"
+msgstr "Responder"
+
+#: /plugins/pages/controllers/pages_pages_controller.php:17
+#: /views/themed/admin/layouts/default.ctp:38
+msgid "Pages"
+msgstr "Páginas"
+
+#: /plugins/pages/controllers/pages_pages_controller.php:107
+msgid "Edit "
+msgstr "Editar"
+
+#: /plugins/pages/controllers/pages_pages_controller.php:112
+msgid "Page has been saved"
+msgstr "Page foi salvo"
+
+#: /plugins/pages/controllers/pages_pages_controller.php:114
+msgid "There are some errors, please correct them"
+msgstr "Há alguns erros, corrija-os"
+
+#: /plugins/pages/views/pages_pages/admin_edit.ctp:3
+msgid "Edit Page"
+msgstr "Editar Página"
+
+#: /plugins/pages/views/pages_pages/admin_edit.ctp:17
+msgid "Meta"
+msgstr "Meta"
+
+#: /plugins/uac/uac_app_controller.php:17
+msgid "Users"
+msgstr "Utilizadores"
+
+#: /plugins/uac/controllers/uac_friendships_controller.php:64
+#, fuzzy
+msgid "Invalid id"
+msgstr "ID de comentário inválido."
+
+#: /plugins/uac/controllers/uac_friendships_controller.php:77
+#, fuzzy
+msgid "Added friend"
+msgstr "Categoria adicionada."
+
+#: /plugins/uac/controllers/uac_friendships_controller.php:94
+#, fuzzy
+msgid "Invalid friend"
+msgstr "Taxonomia Inválida"
+
+#: /plugins/uac/controllers/uac_friendships_controller.php:98
+#, fuzzy
+msgid "Friendship deleted"
+msgstr "%s link eliminado."
+
+#: /plugins/uac/controllers/uac_friendships_controller.php:102
+#, fuzzy
+msgid "Friendship was not deleted"
+msgstr "A imagem não foi excluído"
+
+#: /plugins/uac/controllers/uac_images_controller.php:13
+msgid "Profile photos"
+msgstr "Fotos Perfil"
+
+#: /plugins/uac/controllers/uac_images_controller.php:39
+msgid "The image has been saved"
+msgstr "A imagem foi salva"
+
+#: /plugins/uac/controllers/uac_images_controller.php:43
+msgid "The image could not be saved. Please, try again."
+msgstr "A imagem não pôde ser salvo. Por favor, tente novamente."
+
+#: /plugins/uac/controllers/uac_images_controller.php:51
+msgid "Invalid id for image"
+msgstr "Id inválido para a imagem"
+
+#: /plugins/uac/controllers/uac_images_controller.php:55
+msgid "Image deleted"
+msgstr "Imagem que foi excluído"
+
+#: /plugins/uac/controllers/uac_images_controller.php:58
+msgid "Image was not deleted"
+msgstr "A imagem não foi excluído"
+
+#: /plugins/uac/controllers/uac_profiles_controller.php:16
+#: /views/dashboard/index.ctp:12
+#: /views/elements/score_board.ctp:8
+#: /views/players/discover.ctp:43
+#: /views/themed/mobile/elements/user_area.ctp:8
+msgid "Profile"
+msgstr "Perfil"
+
+#: /plugins/uac/controllers/uac_profiles_controller.php:44
+msgid "Your profile was saved"
+msgstr "Seu perfil foi salvo"
+
+#: /plugins/uac/controllers/uac_profiles_controller.php:49
+msgid "There is an error on your profile"
+msgstr "Há um erro no seu perfil"
+
+#: /plugins/uac/controllers/uac_users_controller.php:36;85
+msgid "Unable to authenticate you using social networks"
+msgstr "Não é possível autenticar usando redes sociais"
+
+#: /plugins/uac/controllers/uac_users_controller.php:98
+msgid "Sorry but the activation code is invalid or expired"
+msgstr "Desculpa mas o código de activação é inválido ou já expirou"
+
+#: /plugins/uac/controllers/uac_users_controller.php:102
+msgid "Your account is created"
+msgstr "Sua conta foi criada"
+
+#: /plugins/uac/controllers/uac_users_controller.php:110
+msgid "Ok, now you can login"
+msgstr "Ok, agora você pode fazer o login"
+
+#: /plugins/uac/controllers/uac_users_controller.php:117
+msgid "Please review the form, we can't create your account"
+msgstr "Por favor revê os dados do formulário. Não foi possível criar a tua conta"
+
+#: /plugins/uac/controllers/uac_users_controller.php:162
+msgid "No user found with the provided credentials"
+msgstr "Nenhum utilizador encontrado com as credenciais fornecidas"
+
+#: /plugins/uac/controllers/uac_users_controller.php:189
+msgid "Activate your new account"
+msgstr "Activar a tua nova conta"
+
+#: /plugins/uac/controllers/uac_users_controller.php:203
+msgid "Your account has been successfully activated"
+msgstr "A tua conta foi activada com sucesso"
+
+#: /plugins/uac/controllers/uac_users_controller.php:220
+#: /plugins/uac/views/uac_users/password_change.ctp:1
+msgid "Change your password"
+msgstr "Alterar sua senha"
+
+#: /plugins/uac/controllers/uac_users_controller.php:248
+msgid "Please correct the errors below"
+msgstr "Por favor, corrija os erros abaixo"
+
+#: /plugins/uac/controllers/uac_users_controller.php:249
+msgid "Your current password doesn't match"
+msgstr "Sua senha atual não corresponde"
+
+#: /plugins/uac/controllers/uac_users_controller.php:257
+msgid "Your password has been set"
+msgstr "A tua senha foi alterada"
+
+#: /plugins/uac/controllers/uac_users_controller.php:262
+msgid "new password"
+msgstr "nova senha"
+
+#: /plugins/uac/controllers/uac_users_controller.php:316
+msgid "Sorry, we cant find any account with that e-mail address"
+msgstr "Desculpe, não consigo encontrar nenhuma conta com esse endereço de email"
+
+#: /plugins/uac/controllers/uac_users_controller.php:324
+msgid "You will receive an e-mail with a code shortly"
+msgstr "Você receberá um e-mail com um código em breve"
+
+#: /plugins/uac/controllers/components/account.php:169
+msgid "New account activation"
+msgstr "Nova ativação da conta"
+
+#: /plugins/uac/controllers/components/account.php:271
+msgid "password recovery"
+msgstr "recuperação de senha"
+
+#: /plugins/uac/controllers/components/account.php:350
+msgid "You don't have permission to access that resource"
+msgstr "Você não tem permissão para acessar esse recurso"
+
+#: /plugins/uac/controllers/components/account.php:381
+msgid "Invalid code"
+msgstr "Código inválido"
+
+#: /plugins/uac/models/uac_user.php:90
+msgid "Passwords must match"
+msgstr "As senhas devem corresponder"
+
+#: /plugins/uac/views/elements/befriend.ctp:13
+#, fuzzy
+msgid "Accept request"
+msgstr "O pedido Falhou"
+
+#: /plugins/uac/views/elements/befriend.ctp:20
+#, fuzzy
+msgid "Add as friend"
+msgstr "Guardar Como Rascunho"
+
+#: /plugins/uac/views/elements/unfriend.ctp:5
+#, fuzzy
+msgid "Remove"
+msgstr "Remover"
+
+#: /plugins/uac/views/elements/user_area.ctp:11
+msgid "Sign Out"
+msgstr "Sair"
+
+#: /plugins/uac/views/elements/user_area.ctp:33
+msgid "Have an account?"
+msgstr "Já possui uma conta?"
+
+#: /plugins/uac/views/elements/user_area.ctp:34
+#: /plugins/uac/views/uac_users/signin.ctp:12;20
+#: /views/elements/score_board.ctp:28
+#: /views/plugins/uac/uac_users/signin.ctp:9;21
+msgid "Log in"
+msgstr "Entrar"
+
+#: /plugins/uac/views/elements/user_area.ctp:36
+#: /plugins/uac/views/uac_users/signup.ctp:12;25
+#: /views/plugins/uac/uac_users/signup.ctp:9;26
+msgid "Sign up"
+msgstr "Inscreva-se"
+
+#: /plugins/uac/views/uac_images/add.ctp:2
+msgid "Upload a picture"
+msgstr "Carregar uma imagem"
+
+#: /plugins/uac/views/uac_images/add.ctp:8
+msgid "Upload"
+msgstr "Upload"
+
+#: /plugins/uac/views/uac_images/index.ctp:2
+msgid "Profile Images"
+msgstr "Imagens de perfil"
+
+#: /plugins/uac/views/uac_images/index.ctp:9
+#: /views/announcements/view.ctp:14
+msgid "Edit"
+msgstr "Editar"
+
+#: /plugins/uac/views/uac_images/index.ctp:10
+#: /views/announcements/view.ctp:15
+#: /views/events/delete.ctp:15
+#: /views/groups/delete.ctp:22
+#: /views/payments/manager_delete.ctp:28
+msgid "Delete"
+msgstr "Excluir"
+
+#: /plugins/uac/views/uac_images/index.ctp:10
+#: /views/events/view.ctp:17
+msgid "Are you sure you want to delete # %s?"
+msgstr "Tem certeza que quer apagar #%s?"
+
+#: /plugins/uac/views/uac_images/index.ctp:21
+msgid "Actions"
+msgstr "Ações"
+
+#: /plugins/uac/views/uac_images/index.ctp:23
+msgid "New Image"
+msgstr "Nova Imagem"
+
+#: /plugins/uac/views/uac_profiles/edit.ctp:8
+#: /views/plugins/uac/uac_profiles/edit.ctp:8
+msgid "Edit your profile"
+msgstr "Editar perfil"
+
+#: /plugins/uac/views/uac_profiles/edit.ctp:26
+#: /views/events/add.ctp:27
+#: /views/plugins/uac/uac_profiles/edit.ctp:32
+#: /views/venues/admin_index.ctp:17
+#: /views/venues/view.ctp:104
+msgid "Location"
+msgstr "Localização"
+
+#: /plugins/uac/views/uac_profiles/edit.ctp:26
+#: /views/plugins/uac/uac_profiles/edit.ctp:32
+msgid "Let your friends know where you are"
+msgstr "Deixa que os teus amigos saibam onde estás"
+
+#: /plugins/uac/views/uac_profiles/edit.ctp:35
+#: /views/plugins/uac/uac_profiles/edit.ctp:29
+msgid "Can we check your location?<br />This allows you to find <strong>Venues</strong> and <strong>Friends</strong> near by."
+msgstr "Podemos verificar a sua localização? <br /> Isto permite-lhe encontrar <strong>espaços</strong> e <strong>amigos</strong> por perto."
+
+#: /plugins/uac/views/uac_profiles/edit.ctp:37
+#: /views/plugins/uac/uac_profiles/edit.ctp:41
+msgid "Save profile"
+msgstr "Salvar perfil"
+
+#: /plugins/uac/views/uac_profiles/edit.ctp:47
+#: /views/plugins/uac/uac_profiles/edit.ctp:54
+msgid "Change picture"
+msgstr "Alterar imagem"
+
+#: /plugins/uac/views/uac_users/activate.ctp:1
+msgid "Activate your account"
+msgstr "Activa a tua conta"
+
+#: /plugins/uac/views/uac_users/activate.ctp:7
+#: /plugins/uac/views/uac_users/password_change.ctp:18
+msgid "For your new password use letters and numbers, this will make it more secure"
+msgstr "Para que sua nova senha use letras e números, isto irá tornar mais seguro"
+
+#: /plugins/uac/views/uac_users/activate.ctp:7
+#: /plugins/uac/views/uac_users/password_change.ctp:18
+msgid "Your password has to be at least <strong>%s</strong> chars long"
+msgstr "A sua senha tem que estar no <strong>mínimo%s</strong> caracteres longo"
+
+#: /plugins/uac/views/uac_users/password_change.ctp:13
+msgid "For security please type your current password"
+msgstr "Por questões de segurança por favor digite sua senha atual"
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:3
+msgid "Recover your password"
+msgstr "Recuperar sua senha"
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:8
+msgid "If you have forgotten your password we can help you reset it"
+msgstr "Caso tenhas esquecido a tua senha, podemos ajudar-te a alterá-la"
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:10
+msgid "Please enter your <strong>e-mail address</strong> and we will send you a link to change your password"
+msgstr "Por favor, digita o teu endereço de <strong>e-mail</strong> para que possamos enviar um link para alterares a tua password"
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:19
+msgid "Request a password reset"
+msgstr "Pedir uma alteração de password"
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:29
+msgid "Helpful hints"
+msgstr "Dicas úteis"
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:30
+msgid "You will receive an e-mail with a link to request a password change"
+msgstr "Irás receber brevemente um e-mail com um código"
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:31
+msgid "Please allow a few minutes for the e-mail to arrive."
+msgstr "e por favor, aguarda alguns minutos para chegar."
+
+#: /plugins/uac/views/uac_users/password_recover.ctp:34
+msgid "Remember to add the address %s to your e-mail safelist"
+msgstr "Não se esqueça de adicionar o endereço%s à sua lista segura de e-mail"
+
+#: /plugins/uac/views/uac_users/signin.ctp:13
+#: /views/plugins/uac/uac_users/signin.ctp:14
+msgid "Please login to continue"
+msgstr "Por favor, faça login para continuar"
+
+#: /plugins/uac/views/uac_users/signin.ctp:27
+#: /plugins/uac/views/uac_users/signup.ctp:33
+msgid "Using other providers"
+msgstr "Usando outros provedores"
+
+#: /plugins/uac/views/uac_users/signin.ctp:28
+#: /plugins/uac/views/uac_users/signup.ctp:34
+msgid "It's fast and easy"
+msgstr "É rápido e fácil"
+
+#: /plugins/uac/views/uac_users/signin.ctp:34
+#: /views/plugins/uac/uac_users/signin.ctp:38
+msgid "Having trouble? did you"
+msgstr "Está com problemas? você"
+
+#: /plugins/uac/views/uac_users/signin.ctp:34
+#: /views/plugins/uac/uac_users/signin.ctp:38
+msgid "forget your password?"
+msgstr "esqueceu sua senha?"
+
+#: /plugins/uac/views/uac_users/signup.ctp:13
+#: /views/plugins/uac/uac_users/signup.ctp:14
+msgid "Create a new account"
+msgstr "Criar uma nova conta"
+
+#: /plugins/uac/views/uac_users/signup.ctp:22
+#: /views/plugins/uac/uac_users/signup.ctp:23
+msgid "Insert your invitation code for access"
+msgstr "Insere o código do teu convite para teres acesso"
+
+#: /plugins/uac/views/uac_users/signup.ctp:40
+#: /views/plugins/uac/uac_users/signup.ctp:66
+msgid "By signing up you agree with the %s"
+msgstr "Ao inscrever-se você concorda com o%s"
+
+#: /plugins/uac/views/uac_users/signup.ctp:40
+#: /views/plugins/uac/uac_users/signup.ctp:66
+msgid "terms of usage"
+msgstr "termos de uso"
+
+#: /vendors/shells/tasks/mail.php:25
+msgid "Shell mail test: %s"
+msgstr "Shell teste mail:%s"
+
+#: /views/announcements/add.ctp:1
+#: /views/announcements/admin_index.ctp:9
+#: /views/announcements/edit.ctp:1
+#: /views/announcements/index.ctp:1
+#: /views/announcements/view.ctp:9
+#: /views/layouts/default.ctp:59
+msgid "Announcements"
+msgstr "Anuncios"
+
+#: /views/announcements/add.ctp:4
+#: /views/announcements/edit.ctp:4
+#: /views/announcements/index.ctp:4
+#: /views/announcements/view.ctp:12
+#, fuzzy
+msgid "Most recent"
+msgstr "Mais Recente"
+
+#: /views/announcements/add.ctp:5;47
+#: /views/announcements/admin_index.ctp:3
+#: /views/announcements/edit.ctp:5
+#: /views/announcements/index.ctp:5
+#: /views/announcements/view.ctp:13
+#, fuzzy
+msgid "Create new"
+msgstr "Criar um novo site"
+
+#: /views/announcements/add.ctp:14
+#, fuzzy
+msgid "Add Announcement"
+msgstr "Adicionar Áudio"
+
+#: /views/announcements/add.ctp:22;31
+#: /views/announcements/edit.ctp:24;33
+#, fuzzy
+msgid "Time"
+msgstr "%s vez"
+
+#: /views/announcements/add.ctp:40
+#: /views/announcements/edit.ctp:42
+#: /views/groups/add.ctp:22
+#: /views/groups/edit.ctp:19
+#: /views/venues/add.ctp:51
+#, fuzzy
+msgid "Activities (comma separated)"
+msgstr "IDs de página, separados por vírgulas."
+
+#: /views/announcements/add.ctp:40
+#: /views/announcements/edit.ctp:42
+#: /views/venues/add.ctp:51
+msgid "Tagging provides a way for users to filter information"
+msgstr "Adicionar Tags possibilita filtrar a informação "
+
+#: /views/announcements/add.ctp:45
+#, fuzzy
+msgid "Agree with the community guidelines"
+msgstr "Ao inscrever-se você concorda com o%s"
+
+#: /views/announcements/add.ctp:53
+#: /views/announcements/edit.ctp:55
+#, fuzzy
+msgid "Community guidelines"
+msgstr "Ligar/desligar elementos invisíveis"
+
+#: /views/announcements/add.ctp:55
+#: /views/announcements/edit.ctp:57
+msgid "The main purpose is to make information about sports events available to users"
+msgstr ""
+
+#: /views/announcements/add.ctp:56
+#: /views/announcements/edit.ctp:58
+msgid "All content must be sports related"
+msgstr "Todo o conteúdo deverá ser relacionado com desporto"
+
+#: /views/announcements/add.ctp:57
+#: /views/announcements/edit.ctp:59
+msgid "Offensive language will not be tolerated and may lead to account suspension"
+msgstr "Linguagem ofensiva não será tolerada e levará á suspensão da conta"
+
+#: /views/announcements/admin_index.ctp:14
+#: /views/venues/admin_index.ctp:14
+msgid "Flagged"
+msgstr "Sinalizadas"
+
+#: /views/announcements/admin_index.ctp:26;30;31
+#: /views/venues/admin_index.ctp:25;29
+msgid "yes"
+msgstr "sim"
+
+#: /views/announcements/admin_index.ctp:30;31
+#: /views/venues/admin_index.ctp:29
+msgid "no"
+msgstr "não"
+
+#: /views/announcements/edit.ctp:14
+#, fuzzy
+msgid "Edit Announcement"
+msgstr "Edição em Lote"
+
+#: /views/announcements/edit.ctp:49
+msgid "Save"
+msgstr "Guardar"
+
+#: /views/announcements/index.ctp:26
+#, fuzzy
+msgid "Sorry, no announcements here"
+msgstr "Página não encontrada."
+
+#: /views/announcements/index.ctp:37
+#: /views/groups/search.ctp:48
+#, fuzzy
+msgid "Activities"
+msgstr "Active"
+
+#: /views/announcements/index.ctp:49
+#: /views/players/find.ctp:57
+msgid "Disclaimer"
+msgstr "AVISO LEGAL"
+
+#: /views/announcements/index.ctp:50
+msgid "These posts are community generated content and although some steps where taken to ensure the best possible quality of this content, the Planamatch.com team cannot be held responsible."
+msgstr ""
+
+#: /views/announcements/view.ctp:30
+#, fuzzy
+msgid "When"
+msgstr "quando"
+
+#: /views/announcements/view.ctp:63
+msgid "Where"
+msgstr ""
+
+#: /views/announcements/view.ctp:70
+#, fuzzy
+msgid "Details"
+msgstr "Detalhes"
+
+#: /views/announcements/view.ctp:87
+#: /views/events/view.ctp:47
+#: /views/groups/view.ctp:65
+msgid "Comments"
+msgstr "Comentários"
+
+#: /views/announcements/view.ctp:106
+#, fuzzy
+msgid "Share"
+msgstr "Guardar"
+
+#: /views/attendings/teams.ctp:11
+#: /views/events/view.ctp:15
+msgid "Team Manager"
+msgstr "Team Manager"
+
+#: /views/attendings/teams.ctp:13
+msgid "Drag the players to break them up into teams"
+msgstr "Arraste os jogadores para dividi-las em equipes"
+
+#: /views/attendings/teams.ctp:55
+msgid "Attendings"
+msgstr "Atendentes"
+
+#: /views/attendings/view.ctp:41
+msgid "The awards are a sign of respect for the athlete, a way of reward someone for their good behaviour"
+msgstr "Os prêmios são um sinal de respeito para o atleta, uma forma de recompensar alguém por seu bom comportamento"
+
+#: /views/attendings/view.ctp:42
+msgid "Each player can give and award each match"
+msgstr "Cada jogador pode dar e de atribuição de cada jogo"
+
+#: /views/attendings/view.ctp:48
+msgid "You can award another badge to this player"
+msgstr "Você pode adjudicação outro emblema para este jogador"
+
+#: /views/dashboard/admin_index.ctp:3
+#: /views/dashboard/index.ctp:1
+#: /views/elements/score_board.ctp:13
+#: /views/themed/mobile/elements/user_area.ctp:13
+#, fuzzy
+msgid "Dashboard"
+msgstr "Painel"
+
+#: /views/dashboard/admin_index.ctp:15
+msgid "Loading"
+msgstr "Carregando"
+
+#: /views/dashboard/admin_index.ctp:18
+msgid "Recent"
+msgstr "Recentes"
+
+#: /views/dashboard/index.ctp:9
+msgid "Notifications"
+msgstr "Notificações"
+
+#: /views/dashboard/index.ctp:12
+msgid "You should update your <strong>%s</strong>, some features will work better."
+msgstr "Você deve atualizar <strong>seu%s,</strong> alguns recursos irão funcionar melhor."
+
+#: /views/dashboard/index.ctp:15
+msgid "To help your friends recognize you more easily you should set your <strong>Screen name</strong>."
+msgstr "Para ajudar seus amigos te reconhecem mais facilmente você deve definir o <strong>seu</strong> pseudónimo."
+
+#: /views/dashboard/index.ctp:18
+msgid "Using an <strong>avatar</strong> makes it easier for your friends to recognize you."
+msgstr "Usando um <strong>avatar</strong> torna mais fácil para seus amigos para reconhecê-lo."
+
+#: /views/dashboard/index.ctp:22
+msgid "Setting the correct <strong>timezone</strong> puts you in sync with others."
+msgstr "Definir o <strong>fuso horário</strong> correcto, coloca você em sintonia com os outros."
+
+#: /views/dashboard/index.ctp:30
+msgid "Seems you are new here, why not start by creating a <strong>group</strong>? just %s"
+msgstr "Parece que você é novo aqui, por que não começar por criar um <strong>grupo?</strong> apenas%s"
+
+#: /views/dashboard/index.ctp:37
+msgid "What's new"
+msgstr "Novidades"
+
+#: /views/elements/avatar.ctp:53
+msgid "since"
+msgstr "desde"
+
+#: /views/elements/avatar.ctp:56
+msgid "from"
+msgstr "de"
+
+#: /views/elements/avatar.ctp:60
+#: /views/plugins/uac/uac_profiles/edit.ctp:56
+msgid "View profile"
+msgstr "Ver o perfil"
+
+#: /views/elements/avatar.ctp:61
+msgid "Send a message"
+msgstr "Enviar uma mensagem"
+
+#: /views/elements/discovery_location.ctp:4
+#, fuzzy
+msgid "Currently looking near"
+msgstr "Este comentário está aprovado"
+
+#: /views/elements/group.ctp:19
+msgid "This is the group rating"
+msgstr "Esta é a pontuação do grupo"
+
+#: /views/elements/group.ctp:32
+#, fuzzy
+msgid "created by"
+msgstr "Posts de %s"
+
+#: /views/elements/group.ctp:36
+msgid "Since"
+msgstr "Desde"
+
+#: /views/elements/mood_selector.ctp:6
+msgid "There's a lot of room for improvement"
+msgstr "Há muito espaço para melhorias"
+
+#: /views/elements/mood_selector.ctp:10
+msgid "It's ok I guess"
+msgstr "It&#39;s ok, eu acho"
+
+#: /views/elements/mood_selector.ctp:14
+msgid "These guys are awesome!"
+msgstr "Esses caras são demais!"
+
+#: /views/elements/paging.ctp:9
+#, fuzzy
+msgid "‹ Previous"
+msgstr "anterior"
+
+#: /views/elements/paging.ctp:29
+#, fuzzy
+msgid "Next ›"
+msgstr "Avançar"
+
+#: /views/elements/question_hub.ctp:1
+msgid "Ask a question about Planamatch"
+msgstr "Faz uma pergunta sobre o planamatch"
+
+#: /views/elements/score_board.ctp:9
+#: /views/themed/mobile/elements/user_area.ctp:9
+msgid "Sign out"
+msgstr "Sair"
+
+#: /views/elements/score_board.ctp:26
+msgid "Sign up for an account"
+msgstr "Cria uma conta nova"
+
+#: /views/elements/search.ctp:6
+#, fuzzy
+msgid "Search for a %s"
+msgstr "Buscar por:"
+
+#: /views/elements/search.ctp:11
+#: /views/groups/add.ctp:6
+#: /views/groups/delete.ctp:6
+#: /views/groups/edit.ctp:6
+#: /views/groups/index.ctp:5
+#: /views/groups/invite.ctp:13
+#: /views/groups/pending.ctp:6
+#: /views/groups/search.ctp:11
+#: /views/groups/view.ctp:42
+msgid "Search"
+msgstr "Pesquisa"
+
+#: /views/elements/signup_callaction.ctp:3
+msgid "Start planing events"
+msgstr "Inscreve-te agora e começa a planear os teus eventos"
+
+#: /views/elements/signup_callaction.ctp:7
+msgid "Sign up now and start planning your events"
+msgstr "Inscreva-se agora e comece a planejar seus eventos"
+
+#: /views/elements/signup_callaction.ctp:9
+msgid "sign up now"
+msgstr "registe-se já"
+
+#: /views/elements/comments/add.ctp:3
+msgid "Write a new comment"
+msgstr "Escrever um novo comentário"
+
+#: /views/elements/comments/add.ctp:3
+msgid "Click to toggle the comment form"
+msgstr "Clique aqui para alternar o formulário de comentário"
+
+#: /views/elements/events/event_list.ctp:42
+msgid "to be announced"
+msgstr "a ser anunciado"
+
+#: /views/elements/events/event_stats.ctp:3
+#: /views/players/discover.ctp:4
+#: /views/venues/discover.ctp:4
+msgid "Players"
+msgstr "Jogadores"
+
+#: /views/elements/events/event_stats.ctp:6
+msgid "Days left"
+msgstr "Dias deixou"
+
+#: /views/errors/error404.ctp:6
+msgid "Sorry but... it's a 404"
+msgstr ""
+
+#: /views/errors/error404.ctp:10
+msgid "Oh boy, where did that page go?"
+msgstr ""
+
+#: /views/errors/error404.ctp:13
+msgid "We can't find the page %s"
+msgstr ""
+
+#: /views/errors/error500.ctp:6
+#, fuzzy
+msgid "Something's not right"
+msgstr "Aprovado|Agora"
+
+#: /views/errors/error500.ctp:10
+#, fuzzy
+msgid "Our servers are crumbling"
+msgstr "Todos os servidores Akismet estão disponíveis."
+
+#: /views/events/add.ctp:3
+#: /views/events/delete.ctp:1
+#: /views/events/edit.ctp:3
+#: /views/events/view.ctp:11
+#: /views/layouts/default.ctp:53
+#: /views/themed/mobile/layouts/default.ctp:59
+msgid "Events"
+msgstr "Eventos"
+
+#: /views/events/add.ctp:11
+msgid "It can anything you want from a BTT ride to a soccer match or a 5 Km run with your friends"
+msgstr ""
+
+#: /views/events/add.ctp:18
+msgid "You can try soccer match or kart racing"
+msgstr ""
+
+#: /views/events/add.ctp:20
+msgid "On which day will the event occur"
+msgstr "Em que dia vai ocorrer o evento"
+
+#: /views/events/add.ctp:21
+msgid "The time of day that the event starts"
+msgstr "O tempo do dia em que o evento começa"
+
+#: /views/events/add.ctp:30
+msgid "Location to be announced"
+msgstr "Local a ser anunciado"
+
+#: /views/events/add.ctp:31
+msgid "Where will the event take place"
+msgstr "Onde será o evento ocorrerá"
+
+#: /views/events/add.ctp:39
+#: /views/events/edit.ctp:36
+msgid "Aditional info"
+msgstr "Informações Adicionais"
+
+#: /views/events/add.ctp:42
+msgid "You can set a meeting point or some ground rules"
+msgstr "Você pode definir um ponto de encontro ou algumas regras básicas"
+
+#: /views/events/add.ctp:49
+#: /views/events/index.ctp:5;16
+msgid "Create a new event"
+msgstr "Criar um novo evento"
+
+#: /views/events/add.ctp:55
+#: /views/groups/add.ctp:32
+#: /views/groups/search.ctp:61
+#: /views/payments/manager_add.ctp:47
+msgid "Helpful tips"
+msgstr "Dicas úteis"
+
+#: /views/events/delete.ctp:5
+msgid "Are you sure you want to delete this event?"
+msgstr "Tem certeza que quer apagar este evento?"
+
+#: /views/events/edit.ctp:26
+msgid "Changing the date or time of the event will cause participating users status to be reset"
+msgstr "Alterar a data ou o horário do evento fará com que os utilizador participantes status de ser reposto"
+
+#: /views/events/index.ctp:1
+msgid "Upcoming events"
+msgstr "Próximos eventos"
+
+#: /views/events/index.ctp:11
+#, fuzzy
+msgid "Your events"
+msgstr "Próximos eventos"
+
+#: /views/events/index.ctp:19
+#, fuzzy
+msgid "Invite your friends to a \"soccer match\""
+msgstr "Encontre seus amigos ou convidar mais planamatch"
+
+#: /views/events/view.ctp:17
+msgid "Delete Event"
+msgstr "Excluir Evento"
+
+#: /views/events/view.ctp:19
+msgid "New Event"
+msgstr "Novo Evento"
+
+#: /views/events/view.ctp:31
+msgid "Guest list"
+msgstr "lista de convidados"
+
+#: /views/events/view.ctp:52
+msgid "Comments are closed"
+msgstr "Comentários estão fechados"
+
+#: /views/events/view.ctp:71
+msgid "Invite more friends"
+msgstr "Convide seus amigos mais"
+
+#: /views/events/view.ctp:82
+msgid "Aren't you going?"
+msgstr "Você não vai?"
+
+#: /views/events/view.ctp:84
+msgid "You should RSVP the invite"
+msgstr "Você deve RSVP o convite"
+
+#: /views/events/view.ctp:86
+msgid "This means you are going"
+msgstr "Isso significa que você vai"
+
+#: /views/events/view.ctp:97
+msgid "Click to expand"
+msgstr "Clique para ampliar"
+
+#: /views/events/view.ctp:105
+msgid "Stats"
+msgstr "Estatísticas"
+
+#: /views/events/view.ctp:114
+#, fuzzy
+msgid "Event information"
+msgstr "Informação da Conexão"
+
+#: /views/events/view.ctp:116
+#, fuzzy
+msgid "RSS updates"
+msgstr "Actualizações Wordpress"
+
+#: /views/events/view.ctp:116
+msgid "Player activity feed"
+msgstr "Jogador feed de atividade"
+
+#: /views/events/view.ctp:117
+#: /views/groups/view.ctp:196
+#: /views/venues/view.ctp:123
+#, fuzzy
+msgid "Share link"
+msgstr "%s link eliminado."
+
+#: /views/events/view.ctp:118
+#: /views/groups/view.ctp:195
+#, fuzzy
+msgid "Created by"
+msgstr "Posts de %s"
+
+#: /views/events/view.ctp:123
+msgid "Advertise"
+msgstr "Anuncie"
+
+#: /views/events/widget_upcoming.ctp:9
+msgid "No upcoming events"
+msgstr "Não há eventos programados"
+
+#: /views/events/rss/view.ctp:7
+msgid "Attending activity"
+msgstr "Atender a atividade"
+
+#: /views/events/rss/view.ctp:9
+msgid "Attending activity for %s"
+msgstr "Atender a atividade para%s"
+
+#: /views/groups/add.ctp:4;12
+#: /views/groups/delete.ctp:4
+#: /views/groups/edit.ctp:4
+#: /views/groups/index.ctp:4
+#: /views/groups/invite.ctp:11
+#: /views/groups/pending.ctp:4
+#: /views/groups/search.ctp:9
+msgid "Create a new group"
+msgstr "Criar um novo grupo"
+
+#: /views/groups/add.ctp:19
+msgid "Unique name to identify your group of friends"
+msgstr "nome único para identificar o seu grupo de amigos"
+
+#: /views/groups/add.ctp:21
+msgid "Specially useful on public groups for other users to know what your group is about"
+msgstr "Especialmente útil em grupos públicos de outros utilizador para saber o que seu grupo é de cerca de"
+
+#: /views/groups/add.ctp:22
+msgid "What sports do you play? like soccer or softball"
+msgstr ""
+
+#: /views/groups/add.ctp:36
+msgid "Name your groups something your friends can easely identify. Try stuff like \"weekend joggers\" or \"sunday footballers\"."
+msgstr "O nome da sua seus grupos de amigos podem fácilmente identificar. Tentar coisas como \"corredores de fim de semana\" ou \"jogadores de futebol ao domingo.\""
+
+#: /views/groups/add.ctp:38
+msgid "For team sports, the groups can be the diferent teams, ex: \"blues\" vs \"reds\""
+msgstr "Para os esportes coletivos, os grupos podem ser as equipas diferentes, ex: \"Blues\" vs \"vermelhos\""
+
+#: /views/groups/add.ctp:40
+msgid "Making a group public, means that other users may find your group and request an invitation to join"
+msgstr "Tornar público um grupo, significa que outros utilizador possam encontrar o seu grupo e solicitar um convite para participar"
+
+#: /views/groups/delete.ctp:12
+msgid "Are you sure you want to delete this group?"
+msgstr "Tem certeza de que deseja excluir este grupo?"
+
+#: /views/groups/edit.ctp:14
+msgid "Edit information"
+msgstr "Editar informações"
+
+#: /views/groups/edit.ctp:19
+msgid "What sports do you play like soccer or softball"
+msgstr ""
+
+#: /views/groups/edit.ctp:21
+#, fuzzy
+msgid "Allow comments"
+msgstr "Permitir Comentários"
+
+#: /views/groups/edit.ctp:26
+msgid "Make the Group public"
+msgstr "Tornar o grupo público"
+
+#: /views/groups/index.ctp:16
+#, fuzzy
+msgid "Start a new group"
+msgstr "Criar um novo grupo"
+
+#: /views/groups/index.ctp:19
+#, fuzzy
+msgid "Get all your friends together"
+msgstr "Convide seus amigos para o grupo"
+
+#: /views/groups/index.ctp:40;54
+#: /views/groups/view.ctp:194
+msgid "Public"
+msgstr "Público"
+
+#: /views/groups/index.ctp:40;54
+#: /views/groups/view.ctp:194
+msgid "Private"
+msgstr "Privado"
+
+#: /views/groups/index.ctp:49
+msgid "Pending aproval"
+msgstr "Em aprovação"
+
+#: /views/groups/invite.ctp:20
+msgid "Invite your friends to the group"
+msgstr "Convide seus amigos para o grupo"
+
+#: /views/groups/invite.ctp:38
+msgid "Invite to this group"
+msgstr "Convidar para este grupo"
+
+#: /views/groups/invite.ctp:46
+msgid "No friends yet, invite some by e-mail"
+msgstr ""
+
+#: /views/groups/invite.ctp:69
+msgid "Send invitations"
+msgstr "Envie convites"
+
+#: /views/groups/invite.ctp:83
+#: /views/groups/view.ctp:146;163
+msgid "see all"
+msgstr "ver todos"
+
+#: /views/groups/invite.ctp:100
+#: /views/groups/view.ctp:123
+msgid "Members"
+msgstr "Membros"
+
+#: /views/groups/invite.ctp:115
+msgid "helpful tip"
+msgstr "dica útil"
+
+#: /views/groups/invite.ctp:116
+msgid "Everything is better with your friends around."
+msgstr "Tudo é melhor com os amigos por perto."
+
+#: /views/groups/invite.ctp:117
+msgid "Invite your friends to join you by searching users already on planamatch or invite them to join the fun."
+msgstr "Convide seus amigos para acompanhá-lo, pesquisando os utilizadores que já participam do planamatch ou convidá-los a participar da festa."
+
+#: /views/groups/pending.ctp:16
+#, fuzzy
+msgid "Group memberships"
+msgstr "Participação pendente"
+
+#: /views/groups/pending.ctp:17
+msgid "There aren't any memberships yet"
+msgstr ""
+
+#: /views/groups/pending.ctp:22
+#, fuzzy
+msgid "Approve memberships"
+msgstr "Participação pendente"
+
+#: /views/groups/pending.ctp:30
+#, fuzzy
+msgid "Player"
+msgstr "Jogador convidado"
+
+#: /views/groups/pending.ctp:31
+msgid "Membership requested"
+msgstr "O pedido de subscrição ao grupo foi feita"
+
+#: /views/groups/pending.ctp:47
+#, fuzzy
+msgid "Approve"
+msgstr "Aprovar"
+
+#: /views/groups/pending.ctp:51
+#, fuzzy
+msgid "Invited players"
+msgstr "Jogador convidado"
+
+#: /views/groups/pending.ctp:55
+#: /views/payments/manager_view.ctp:26
+msgid "User"
+msgstr "Utilizador"
+
+#: /views/groups/pending.ctp:56
+msgid "Invitation sent"
+msgstr "Convite enviado"
+
+#: /views/groups/search.ctp:17
+msgid "Search groups"
+msgstr "Procurar grupos"
+
+#: /views/groups/search.ctp:23
+#, fuzzy
+msgid "Sorry! We can't find any groups near you yet"
+msgstr "Desculpa, eu não consigo encontrar ninguém com esse nome"
+
+#: /views/groups/search.ctp:24
+msgid "We are currently searching in "
+msgstr ""
+
+#: /views/groups/search.ctp:29
+#, fuzzy
+msgid "Your search results by"
+msgstr "Resultado da Pesquisa <span class=\"count\">(%s)</span>"
+
+#: /views/groups/view.ctp:9
+msgid "groups"
+msgstr "grupos"
+
+#: /views/groups/view.ctp:36
+msgid "Edit group"
+msgstr "Editar grupo"
+
+#: /views/groups/view.ctp:37
+msgid "Delete group"
+msgstr "Excluir grupo"
+
+#: /views/groups/view.ctp:40
+msgid "Create group"
+msgstr "Criar um grupo"
+
+#: /views/groups/view.ctp:56
+msgid "Your group application is pending review by the admin"
+msgstr "Seu aplicativo grupo está pendente de revisão pelo administrador"
+
+#: /views/groups/view.ctp:58
+msgid "You where invited to join this group"
+msgstr "Vocês foram convidados para participar desse grupo"
+
+#: /views/groups/view.ctp:88
+msgid "No comments here. Start a conversation"
+msgstr "Nenhum comentário aqui. Iniciar uma conversa"
+
+#: /views/groups/view.ctp:90
+msgid "Sorry but you can't comment unless you are part of the group"
+msgstr "Desculpe, mas você não pode comentar a não ser que façam parte do grupo"
+
+#: /views/groups/view.ctp:103
+msgid "Join this group"
+msgstr "Junte-se a este grupo"
+
+#: /views/groups/view.ctp:107
+msgid "Request invitation"
+msgstr "Pedir convite"
+
+#: /views/groups/view.ctp:114
+#: /views/players/find.ctp:49
+msgid "Invite friends"
+msgstr "Convide seus amigos"
+
+#: /views/groups/view.ctp:133
+msgid "Remove user from group"
+msgstr "Remover utilizador do grupo"
+
+#: /views/groups/view.ctp:163
+#: /views/payments/widget_recent.ctp:1
+msgid "Recent Payments"
+msgstr "Pagamentos recentes"
+
+#: /views/groups/view.ctp:167
+msgid "on"
+msgstr "em"
+
+#: /views/groups/view.ctp:176
+msgid "How do you feel about this group?"
+msgstr "Como você se sente sobre esse grupo?"
+
+#: /views/groups/view.ctp:185
+#, fuzzy
+msgid "Leave this group"
+msgstr "Junte-se a este grupo"
+
+#: /views/groups/view.ctp:191
+#, fuzzy
+msgid "Group information"
+msgstr "Informação da Conexão"
+
+#: /views/groups/view.ctp:194
+#, fuzzy
+msgid "This group is"
+msgstr "Esta é a pontuação do grupo"
+
+#: /views/helpers/interface.php:62
+msgid "Insuficient data to generate graph"
+msgstr "dados insuficientes para gerar o gráfico"
+
+#: /views/helpers/interface.php:79
+msgid "Toggle attending status (%s)"
+msgstr "Alternar estado (%s)"
+
+#: /views/home/index.ctp:15
+#: /views/venues/view.ctp:43
+#, fuzzy
+msgid "Features"
+msgstr "Funcionalidades"
+
+#: /views/home/index.ctp:83
+msgid "Create"
+msgstr "Criar"
+
+#: /views/home/index.ctp:88
+#: /views/players/lightbox_friends.ctp:12
+msgid "Invite"
+msgstr "Convidar"
+
+#: /views/home/index.ctp:93
+msgid "Play"
+msgstr "Jogar"
+
+#: /views/home/index.ctp:105
+#, fuzzy
+msgid "From the blog"
+msgstr "Blog Wordpress"
+
+#: /views/layouts/default.ctp:50
+#: /views/players/discover.ctp:1
+#: /views/venues/discover.ctp:1
+#, fuzzy
+msgid "Discover"
+msgstr "AVISO LEGAL"
+
+#: /views/layouts/default.ctp:50
+#, fuzzy
+msgid "What's around"
+msgstr "Novidades"
+
+#: /views/layouts/default.ctp:53
+msgid "Start inviting"
+msgstr "Começa a convidar"
+
+#: /views/layouts/default.ctp:56
+msgid "Make your teams"
+msgstr "Faz as tuas equipas"
+
+#: /views/layouts/default.ctp:59
+msgid "Bulletin Board"
+msgstr ""
+
+#: /views/layouts/default.ctp:62
+#: /views/themed/mobile/layouts/default.ctp:76
+msgid "About"
+msgstr "Sobre"
+
+#: /views/layouts/default.ctp:62
+msgid "What is this"
+msgstr "O que é"
+
+#: /views/layouts/default.ctp:98
+msgid "More"
+msgstr "Mais"
+
+#: /views/layouts/default.ctp:100
+msgid "Blog"
+msgstr "Blog"
+
+#: /views/layouts/default.ctp:101
+#: /views/plugins/contacts/contacts/add.ctp:2
+msgid "Contact us"
+msgstr "Contacte-nos"
+
+#: /views/layouts/default.ctp:102
+#: /views/pages/privacy_policy.ctp:1
+msgid "Privacy Policy"
+msgstr "Política de Privacidade"
+
+#: /views/layouts/default.ctp:103
+msgid "Questions?"
+msgstr "Perguntas?"
+
+#: /views/layouts/default.ctp:104
+msgid "Donate"
+msgstr "Doar"
+
+#: /views/layouts/default.ctp:109
+msgid "Languages"
+msgstr "Línguas"
+
+#: /views/layouts/default.ctp:118
+msgid "Stay in the loop"
+msgstr "Mantem-te a par"
+
+#: /views/layouts/email/html/default.ctp:100
+msgid "was developed by"
+msgstr "foi desenvolvido por"
+
+#: /views/pages/about.ctp:6
+msgid "About planamatch.com"
+msgstr "Sobre o planamatch.com"
+
+#: /views/pages/new_user.ctp:1
+msgid "Welcome to sports events made simple"
+msgstr "Bem-vindo a eventos desportivos de forma simples"
+
+#: /views/pages/subscription.ctp:1
+msgid "Subscribe to our newsletter"
+msgstr "Assine nosso boletim"
+
+#: /views/pages/subscription.ctp:5
+msgid "Just fill in your name and e-mail"
+msgstr "Basta preencher o seu nome e e-mail"
+
+#: /views/pages/subscription.ctp:29
+msgid "Why?"
+msgstr "Porquê?"
+
+#: /views/pages/subscription.ctp:30
+msgid "Yeah baby! It's free."
+msgstr "Yeah baby! É grátis."
+
+#: /views/pages/subscription.ctp:31
+msgid "We promise not to spam or sell your email."
+msgstr "Prometemos não fazer spam ou vender o teu e-mail."
+
+#: /views/pages/subscription.ctp:32
+msgid "We just wan't to keep you up to date with new stuff on the site."
+msgstr "Acabamos de luto para mantê-lo atualizado com novidades no site."
+
+#: /views/pages/user_agreement.ctp:1
+msgid "Terms of usage"
+msgstr "Termos de utilização"
+
+#: /views/payments/index.ctp:17
+#, fuzzy
+msgid "Your Payments"
+msgstr "Pagamentos recentes"
+
+#: /views/payments/index.ctp:24
+#: /views/payments/manager_view.ctp:25
+msgid "when"
+msgstr "quando"
+
+#: /views/payments/index.ctp:25
+msgid "Group"
+msgstr "Grupo"
+
+#: /views/payments/index.ctp:26
+#: /views/payments/manager_view.ctp:27
+#, fuzzy
+msgid "Amount"
+msgstr "montante"
+
+#: /views/payments/index.ctp:27
+#: /views/payments/manager_delete.ctp:16
+#: /views/payments/manager_view.ctp:28
+#, fuzzy
+msgid "Note"
+msgstr "Note:"
+
+#: /views/payments/index.ctp:49
+#: /views/payments/manager_view.ctp:58
+msgid "Chart"
+msgstr ""
+
+#: /views/payments/manager_add.ctp:9
+msgid "View payments"
+msgstr "Ver os pagamentos"
+
+#: /views/payments/manager_add.ctp:18
+#, fuzzy
+msgid "Register a new payment from"
+msgstr "Registre um novo pagamento"
+
+#: /views/payments/manager_add.ctp:25
+msgid "How much did you receive"
+msgstr ""
+
+#: /views/payments/manager_add.ctp:26
+msgid "In case you need some reminder..."
+msgstr ""
+
+#: /views/payments/manager_add.ctp:49
+msgid "Group admins can keep track of players fees. All payments will be available for each user."
+msgstr "administradores do grupo pode acompanhar as taxas jogadores. Todos os pagamentos estarão disponíveis para cada usuário."
+
+#: /views/payments/manager_delete.ctp:7
+msgid "Are you sure you want to delete this payment?"
+msgstr "Tem certeza de que deseja excluir este pagamento?"
+
+#: /views/payments/manager_delete.ctp:10
+msgid "Value"
+msgstr "Valor"
+
+#: /views/payments/manager_delete.ctp:12
+msgid "Made on"
+msgstr "Fabricado em"
+
+#: /views/payments/manager_view.ctp:12
+#, fuzzy
+msgid "Your payments"
+msgstr "Pagamentos recentes"
+
+#: /views/payments/manager_view.ctp:20
+msgid "Group Payments"
+msgstr "Pagamentos Grupo"
+
+#: /views/payments/widget_recent.ctp:18
+msgid "No payments recorded"
+msgstr "Nenhum pagamento registrados"
+
+#: /views/players/discover.ctp:13
+msgid "Players near your location"
+msgstr ""
+
+#: /views/players/discover.ctp:31
+msgid "We cant find anyone. Why not start a %s and invite your neighbors."
+msgstr ""
+
+#: /views/players/discover.ctp:31
+#, fuzzy
+msgid "new group"
+msgstr "Criar um novo grupo"
+
+#: /views/players/discover.ctp:42
+#, fuzzy
+msgid "Quick tip"
+msgstr "dica útil"
+
+#: /views/players/discover.ctp:43
+msgid "Update your %s with your location to find players near you"
+msgstr ""
+
+#: /views/players/find.ctp:3
+#: /views/players/index.ctp:3
+#: /views/players/view.ctp:29
+msgid "Public profiles"
+msgstr "Os perfis públicos"
+
+#: /views/players/find.ctp:4;30
+#: /views/players/index.ctp:4
+#: /views/players/view.ctp:27
+msgid "Find friends"
+msgstr "Encontrar amigos"
+
+#: /views/players/find.ctp:8
+msgid "Find your friends or invite more to planamatch"
+msgstr "Encontre seus amigos ou convidar mais planamatch"
+
+#: /views/players/find.ctp:11
+msgid "Select provider"
+msgstr "Selecione fornecedor"
+
+#: /views/players/find.ctp:34
+msgid "Found %s user(s) on planamatch"
+msgstr "Encontrados usuário%s (s) em planamatch"
+
+#: /views/players/find.ctp:43
+msgid "Invite your friends to planamatch"
+msgstr "Convide seus amigos para planamatch"
+
+#: /views/players/friends.ctp:1;56
+#: /views/players/view.ctp:119
+msgid "Friends"
+msgstr "Amigos"
+
+#: /views/players/friends.ctp:7
+#, fuzzy
+msgid "Friend requests"
+msgstr "%s aceita pedidos desde %s\n"
+
+#: /views/players/friends.ctp:43
+#, fuzzy
+msgid "Friend suggestions"
+msgstr "Nenhuma sugestão"
+
+#: /views/players/friends.ctp:70
+#, fuzzy
+msgid "People you may know"
+msgstr "Só pode fazer upload de 1 ficheiro."
+
+#: /views/players/index.ctp:10
+msgid "Public Users"
+msgstr "Usuários Públicos"
+
+#: /views/players/lightbox_friends.ctp:18
+msgid "Sorry, I couldn't find anyone."
+msgstr "Desculpa, eu não consigo encontrar ninguém com esse nome"
+
+#: /views/players/lightbox_friends.ctp:19
+msgid "Head on to the groups and start your own."
+msgstr ""
+
+#: /views/players/view.ctp:5
+msgid "profile"
+msgstr "perfil"
+
+#: /views/players/view.ctp:25
+msgid "Edit Profile"
+msgstr "Editar perfil"
+
+#: /views/players/view.ctp:26
+msgid "Change Password"
+msgstr "Alterar senha"
+
+#: /views/players/view.ctp:38
+msgid "About the user"
+msgstr "Sobre o utilizador"
+
+#: /views/players/view.ctp:49
+msgid "Statistics"
+msgstr "Estatísticas"
+
+#: /views/players/view.ctp:53
+msgid "Total"
+msgstr "Total"
+
+#: /views/players/view.ctp:54
+msgid "Attended"
+msgstr "Frequentou"
+
+#: /views/players/view.ctp:55
+msgid "Missed"
+msgstr "Não atendidas"
+
+#: /views/players/view.ctp:95
+#, fuzzy
+msgid "Remove from friends"
+msgstr "Remover da Edição em Massa"
+
+#: /views/players/view.ctp:97
+#, fuzzy
+msgid "Send private message"
+msgstr "Mensagem de manutenção personalizada."
+
+#: /views/plugins/contacts/contacts/add.ctp:16
+msgid "Send"
+msgstr "Enviar"
+
+#: /views/plugins/contacts/contacts/add.ctp:25
+msgid "I have a question"
+msgstr "Eu tenho uma questão"
+
+#: /views/plugins/contacts/contacts/add.ctp:35
+msgid "But my question is private"
+msgstr "Mas a minha questão é privada"
+
+#: /views/plugins/contacts/contacts/add.ctp:37
+msgid "Go a head and use the form on the left we promise to reply shortly."
+msgstr "Força, usa o formulário do lado esquerdo, nos prometemos responder rapidamente"
+
+#: /views/plugins/msgs/msgs_messages/index.ctp:3
+#: /views/plugins/msgs/msgs_messages/send.ctp:4
+#: /views/plugins/msgs/msgs_messages/sent.ctp:3
+#: /views/plugins/msgs/msgs_messages/view.ctp:3
+#, fuzzy
+msgid "Private messages"
+msgstr "Chave Privada:"
+
+#: /views/plugins/msgs/msgs_messages/index.ctp:20
+#: /views/plugins/msgs/msgs_messages/view.ctp:33
+msgid "Received"
+msgstr ""
+
+#: /views/plugins/msgs/msgs_messages/sent.ctp:13
+#, fuzzy
+msgid "Sent messages"
+msgstr "enviar para %s\n"
+
+#: /views/plugins/uac/uac_profiles/edit.ctp:55
+#, fuzzy
+msgid "Change password"
+msgstr "Alterar senha"
+
+#: /views/plugins/uac/uac_profiles/edit.ctp:57
+#, fuzzy
+msgid "View friends"
+msgstr "Convide seus amigos"
+
+#: /views/plugins/uac/uac_users/signup.ctp:23
+msgid "Invitation code"
+msgstr "Código de activação"
+
+#: /views/themed/admin/layouts/default.ctp:27
+msgid "ADMINISTRATION"
+msgstr "ADMINISTRAÇÃO"
+
+#: /views/themed/admin/layouts/default.ctp:39
+#: /views/venues/add.ctp:12;15
+#: /views/venues/admin_index.ctp:9
+#: /views/venues/discover.ctp:5;13
+#: /views/venues/index.ctp:3
+#: /views/venues/view.ctp:17;20
+msgid "Venues"
+msgstr "Espaços"
+
+#: /views/venues/add.ctp:23
+#: /views/venues/admin_index.ctp:3
+msgid "New Venue"
+msgstr "Nova Sede"
+
+#: /views/venues/add.ctp:31
+msgid "Type and address for autocomplete and a map"
+msgstr ""
+
+#: /views/venues/add.ctp:57
+#: /views/venues/admin_add.ctp:5
+msgid "Create new venue"
+msgstr "Criar novo local"
+
+#: /views/venues/add.ctp:58
+#: /views/venues/admin_add.ctp:6
+#: /views/venues/admin_edit.ctp:7
+msgid "go back"
+msgstr "voltar"
+
+#: /views/venues/admin_edit.ctp:6
+msgid "Save changes"
+msgstr "Salvar alterações"
+
+#: /views/venues/admin_index.ctp:16
+msgid "URL"
+msgstr "URL"
+
+#: /views/venues/admin_index.ctp:18
+msgid "Active"
+msgstr "Active"
+
+#: /views/venues/admin_index.ctp:28
+msgid "Yes"
+msgstr "Sim"
+
+#: /views/venues/discover.ctp:19
+#, fuzzy
+msgid "Fav'ed"
+msgstr "Sinalizadas"
+
+#: /views/venues/discover.ctp:20
+#, fuzzy
+msgid "Distance"
+msgstr "desde"
+
+#: /views/venues/index.ctp:9
+msgid "Nearby"
+msgstr "Próximos"
+
+#: /views/venues/index.ctp:10
+msgid "Maps"
+msgstr "Mapas"
+
+#: /views/venues/index.ctp:11
+msgid "Locations"
+msgstr "Locais"
+
+#: /views/venues/index.ctp:19
+msgid "There are no Venues near by"
+msgstr "Não há locais perto"
+
+#: /views/venues/index.ctp:39
+msgid "Type an address here"
+msgstr "Digite um endereço aqui"
+
+#: /views/venues/view.ctp:9
+msgid "venues"
+msgstr "locais"
+
+#: /views/venues/view.ctp:39
+#, fuzzy
+msgid "Do you own a venue?"
+msgstr "Você gosta deste local"
+
+#: /views/venues/view.ctp:40
+msgid "You can personalize a page just like this one"
+msgstr ""
+
+#: /views/venues/view.ctp:46
+#, fuzzy
+msgid "Post updates"
+msgstr "Actualizações Wordpress"
+
+#: /views/venues/view.ctp:46;49;52
+msgid "Lorem ipsum"
+msgstr ""
+
+#: /views/venues/view.ctp:49
+#, fuzzy
+msgid "Add pictures"
+msgstr "Mais Fotos"
+
+#: /views/venues/view.ctp:52
+msgid "Overview"
+msgstr ""
+
+#: /views/venues/view.ctp:60
+#, fuzzy
+msgid "Latest news"
+msgstr "Última versão:"
+
+#: /views/venues/view.ctp:83
+msgid "More Pictures"
+msgstr "Mais Fotos"
+
+#: /views/venues/view.ctp:111
+msgid "Address"
+msgstr "Endereço"
+
+#: /views/venues/view.ctp:111
+msgid "Unknown"
+msgstr "Desconhecido"
+
+#: /views/venues/view.ctp:116
+#, fuzzy
+msgid "Venue information"
+msgstr "Informação da Conexão"
+
+#: /views/venues/view.ctp:119
+#, fuzzy
+msgid "Times favorited"
+msgstr "(%d&nbsp;&times;&nbsp;%d)"
+
+#: /views/venues/view.ctp:121
+msgid "Venue posts feed"
+msgstr "Local feed posts"
+
+#: /views/venues/view.ctp:130
+msgid "Sponsor"
+msgstr "Patrocinador"
+
+#: /webroot/test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr "configuração de depuração não permite o acesso a este url."
+
+#~ msgid "Username not found"
+#~ msgstr "Utilizador não encontrado"
+
+#~ msgid "Payment saved"
+#~ msgstr "Pagamento salvo"
+
+#~ msgid "Access denied"
+#~ msgstr "Acesso negado"
+
+#~ msgid "Invalid Venue"
+#~ msgstr "Local inválido"
+
+#~ msgid "Hey! This section is still empty"
+#~ msgstr "Hey! Esta secção ainda está vazia"
+
+#~ msgid "Page %page% of %pages%"
+#~ msgstr "Página a página%%%% de páginas"
+
+#~ msgid "next"
+#~ msgstr "próxima"
+
+#~ msgid "Add Event"
+#~ msgstr "Adicionar Evento"
+
+#~ msgid "Try adding an event"
+#~ msgstr "Tente adicionar um evento"
+
+#~ msgid "Tags"
+#~ msgstr "Tags"
+
+#~ msgid "Try adding a group"
+#~ msgstr "Tenta adicionar um grupo"
+
+#~ msgid "Approve requesting members"
+#~ msgstr "Aprovar membros em aprovação"
+
+#~ msgid "New payment"
+#~ msgstr "novo pagamento"
+
+#~ msgid "All groups"
+#~ msgstr "Todos os grupos"
+
+#~ msgid "Plan sports events"
+#~ msgstr "Planeia eventos desportivos"
+
+#~ msgid "Keep track of who's attending"
+#~ msgstr "Gere quem vai participar"
+
+#~ msgid "Create and customize groups"
+#~ msgstr "Cria e personaliza grupos"
+
+#~ msgid "Find new places to practive your sports"
+#~ msgstr "Encontra novos locais para praticar"
+
+#~ msgid "Find friends playing the same sport"
+#~ msgstr "Encontra amigos que praticam o mesmo"
+
+#~ msgid "Keep track of your membership fees"
+#~ msgstr "Gere as mensalidades dos teus grupos"
+
+#~ msgid "RSS Feed"
+#~ msgstr "RSS Feed"
+
+#~ msgid "Newsletter"
+#~ msgstr "Newsletter"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "News"
+#~ msgstr "Notícias"
+
+#~ msgid "What is it?"
+#~ msgstr "O que é?"
+
+#~ msgid "New Payment"
+#~ msgstr "Pagamento Novo"
+
+#~ msgid "Edit a payment"
+#~ msgstr "Editar um pagamento"
+
+#~ msgid "user"
+#~ msgstr "utilizador"
+
+#~ msgid "Useful tips"
+#~ msgstr "Dicas úteis"
+
+#~ msgid "On this page you can keep track of your expenses"
+#~ msgstr "Nesta página você pode acompanhar seus gastos"
+
+#~ msgid "Ranking"
+#~ msgstr "Ranking"
+
+#~ msgid ""
+#~ "We are currently in a closed beta stage and <strong><u>new accounts are "
+#~ "by invitation only</u></strong>."
+#~ msgstr ""
+#~ "Estamos em versão beta e as <strong><u>novas contas são apenas por "
+#~ "convite</u></strong>."
+
+#~ msgid ""
+#~ "If you'd like to try the beta version, just request your invitation on "
+#~ "the right."
+#~ msgstr ""
+#~ "Se queres testar já a versão beta, pede um convite no formulário à "
+#~ "direita."
+
+#~ msgid "Want an invitation?"
+#~ msgstr "Queres um convite?"
+
+#~ msgid "This venue lacks pictures"
+#~ msgstr "Este local não possui fotos"
+
+#~ msgid "Do you manage this venue? Claim here"
+#~ msgstr "Você gerencia este local? Reivindicação aqui"
